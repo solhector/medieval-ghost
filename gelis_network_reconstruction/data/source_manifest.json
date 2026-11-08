@@ -1,0 +1,13 @@
+{
+  "source_filename": "Le Registre dInquisition de Jacques Fournier Evéque de -- traduit du Latin et annoté par Jean Duvernoy préface de -- Civilisations et Sociétés -- isbn13 9782713200786 -- 324068e307fa2408e954abdffe87ae28 -- Annas Archive(3).pdf",
+  "sha256": "19436cc2822ff4e2310c7bdaf03ee6bf6f28340499972ee7fbc49c7737043c8e",
+  "edition": "Jean Duvernoy French translation, combined scan",
+  "citation_system": "printed continuous pages, not Latin edition pages",
+  "core_printed_pages": "158-190",
+  "extension_printed_pages": [
+    "583",
+    "828"
+  ],
+  "node_count": 118,
+  "edge_assertion_count": 167
+}

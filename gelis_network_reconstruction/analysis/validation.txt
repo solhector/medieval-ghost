@@ -1,0 +1,6 @@
+PASS: 118 uniquely keyed nodes; 167 relation assertions.
+PASS: all edge endpoints refer to existing nodes.
+PASS: exported igraph vertex keys match CSV IDs.
+PASS: exported graph preserves all 167 assertions.
+Visual QA: all five views inspected; CJK and French names render.
+PASS: five-page atlas and five individual PNG/PDF/SVG figures.
