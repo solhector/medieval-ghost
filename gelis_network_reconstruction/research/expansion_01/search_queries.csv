@@ -1,0 +1,16 @@
+﻿query_id,regex_accent_folded,limitations
+gelis_variants,\b(?:gelis|botheler|botelhier|botelher|bouteiller)\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+calmelles,\bcalmelles\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+camelle,\bcamel(?:le|ie)\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+melonier,\bmelonier\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+loubens,\bloubens\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+durfort,\bdurfort\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+monesple,\bmonesple\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+battegay,\bbattegay\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+arignac,\barignac\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+pons_bru,\bpons bru\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+pons_malet,\bpons malet\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+belfag,\bbelfag\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+carpin,\bcarpin\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+flechier,\bflechier\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分
+santa_fe,\bsanta[- ]fe\b,OCR、空格、异拼会漏检；正文、注释、索引尚未自动区分

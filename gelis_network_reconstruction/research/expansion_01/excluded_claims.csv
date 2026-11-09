@@ -1,0 +1,11 @@
+﻿claim_id,source,target,claim_zh,evidence_id,disposition,reason_zh
+neg001,infirmerie,fournier,已向主教报告,v007,excluded_from_graph,证人仅称Je crois；不升级为确认发生
+neg002,garaud,aude,tia表示血亲姑姨,v008,excluded_from_graph,明确答Non；仅亲昵称呼
+neg003,alazays_nurse,den_raimond,房主亲自接待乳母,v016,excluded_from_graph,只证明领圣餐地点属于其房屋，未证明人际互动
+neg004,saintefoy,huguette,母舅与外甥女,v041,excluded_from_graph,p.140初述，p.141明确撤回；不是可纳入的亲属边
+neg005,huguette,jeanne_m_wife,传授被称为异端的观点,v049,excluded_from_graph,明确说未向她们谈这些观点；共去教堂不等于同属瓦尔多派
+neg006,huguette,barcelone_bl,传授被称为异端的观点,v049,excluded_from_graph,明确说未向她们谈这些观点；共去教堂不等于同属瓦尔多派
+neg007,huguette,jeanne_pc,传授被称为异端的观点,v049,excluded_from_graph,明确说未向她们谈这些观点；共去教堂不等于同属瓦尔多派
+neg008,huguette,guillemette_paredes,传授被称为异端的观点,v049,excluded_from_graph,明确说未向她们谈这些观点；共去教堂不等于同属瓦尔多派
+neg009,escoulan,saintefoy,生前相识或目睹处刑,v062,excluded_from_graph,明确否认；听闻死者的故事不能作相识或显灵边
+neg010,etienne_priest,agnes,最初自称神父Etienne教授禁誓,v063,excluded_from_graph,暂不作确认的传授边；与p.126后说法并列待复核

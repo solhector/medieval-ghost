@@ -1,0 +1,14 @@
+﻿entity_a,entity_b_or_mention,decision,reason_zh,printed_pages,implementation
+camelle,Jacques Camelie [C002 p50],provisional_same_id,姓名变体+Pamiers法律人士；核心p160；无明确跨案本人声明,50;160,camelle现ID；暂合并，允许撤销
+escribe,Geoffroy Escribe [C007],same_new_id,第1案和第7案同名同Ventenac居所,37-38;153,escribe
+arnaud_melonier,melonier,candidate_not_merged,前案Arnaud与核心Pierre-Arnaud缺完整身份链,46;125;145;173,两节点保留
+barcelone_bl,barc_d,candidate_not_merged,丈夫分别Bernard和Guillaume；不能只凭Barcelone及Loubens合并,145;160,两节点保留；核心具体ID见节点表
+bernard_loubens,loubens,not_merged,不同名字；未有异名证据,145;160,分别登记
+jeanne_m_sis,jeanne_m_wife,not_merged,一个是Arnaud姊妹，一个是妻子,125;145,分别登记
+guillemette_mason,guillemette_paredes,candidate_not_merged,同名女性；缺丈夫职业对应,125;145,分别登记
+etienne_servant,Jean [domestique; initial name],explicit_name_correction,Huguette p147明确更正先前的Jean,141;147,仆人使用Etienne；不是Etienne侄甥
+saintefoy,Pierre [claimed uncle of Huguette],retracted_kinship,p141明确说舅父身份虚假,140-141,Raimond别称Pierre属被撤回说法；无舅甥边
+jacqueline_ray,jacqueline_av,candidate_not_merged,一为亲属，一为识字旅店主人；无确证同一,133;141,与核心Jacqueline Othon也分开
+garaud,aude,explicit_nonkinship,p36否认亲属；tia为称呼,35-36,不作姑姨边
+cure_sc,priest_aude,candidate_not_merged,或为同一告解者但缺名字,33-34,匿名角色分开，不计为确定两人
+moran,mourier,candidate_not_merged,Jean Moran/Jean Mourier不可仅因音近合并,104;131-132,分别登记

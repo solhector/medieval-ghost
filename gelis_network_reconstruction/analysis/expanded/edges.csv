@@ -1,0 +1,298 @@
+"edge_id","source","target","layer","relation_zh","directed","evidence_mode","outcome","printed_pages","deposition","detail_zh","dataset","provenance_level","evidence_id","case_id","event_time_expression","evidence_pdf_page"
+"e001","jacqueline","othon","kinship","婚姻",FALSE,"reported","attested","172","核心案组","","core_v1","legacy_page_level","","","",NA
+"e002","gausia","arignac_h","kinship","婚姻",FALSE,"reported","attested","172","核心案组","","core_v1","legacy_page_level","","","",NA
+"e003","touzes","pascal","kinship","婚姻",FALSE,"reported","attested","182","核心案组","","core_v1","legacy_page_level","","","",NA
+"e004","mengarde_c","carpin","kinship","婚姻",FALSE,"reported","attested","176","核心案组","","core_v1","legacy_page_level","","","",NA
+"e005","jeanne_f","pierre_f","kinship","婚姻",FALSE,"reported","attested","176","核心案组","","core_v1","legacy_page_level","","","",NA
+"e006","ermengarde","belfag","kinship","婚姻",FALSE,"reported","attested","189","核心案组","","core_v1","legacy_page_level","","","",NA
+"e007","resplandie","serny","kinship","婚姻",FALSE,"reported","attested","189","核心案组","","core_v1","legacy_page_level","","","",NA
+"e008","mengarde","arnaud_p","kinship","婚姻",FALSE,"reported","attested","172","核心案组","","core_v1","legacy_page_level","","","",NA
+"e009","fabrissa_f","guillaume_f","kinship","婚姻",FALSE,"reported","attested","178","核心案组","","core_v1","legacy_page_level","","","",NA
+"e010","navarre","pons_b","kinship","婚姻",FALSE,"reported","attested","182","核心案组","","core_v1","legacy_page_level","","","",NA
+"e011","na_serres","husb_serres","kinship","婚姻",FALSE,"reported","attested","183","核心案组","","core_v1","legacy_page_level","","","",NA
+"e012","guillemette","pierre_b","kinship","婚姻",FALSE,"reported","attested","188","核心案组","","core_v1","legacy_page_level","","","",NA
+"e013","fabrissa_b","jr_arnaud","kinship","婚姻",FALSE,"reported","attested","188","核心案组","","core_v1","legacy_page_level","","","",NA
+"e014","mother_f","faure_f","kinship","婚姻",FALSE,"reported","attested","180","核心案组","","core_v1","legacy_page_level","","","",NA
+"e015","brune_s","sache","kinship","婚姻",FALSE,"reported","attested","165-166","核心案组","","core_v1","legacy_page_level","","","",NA
+"e016","brunissende","calmelles","kinship","婚姻",FALSE,"reported","attested","159","核心案组","","core_v1","legacy_page_level","","","",NA
+"e017","barc_d","loubens","kinship","婚姻",FALSE,"reported","attested","160","核心案组","","core_v1","legacy_page_level","","","",NA
+"e018","philippa","camelle","kinship","婚姻",FALSE,"reported","attested","160","核心案组","","core_v1","legacy_page_level","","","",NA
+"e019","guill_a","bernarde","kinship","婚姻",FALSE,"reported","attested","162,166","核心案组","","core_v1","legacy_page_level","","","",NA
+"e020","gelis","wife_g","kinship","婚姻",FALSE,"inferred","attested","163","核心案组","","core_v1","legacy_page_level","","","",NA
+"e021","barc_f","pons_f","kinship","婚姻",FALSE,"reported","attested","161","核心案组","","core_v1","legacy_page_level","","","",NA
+"e022","ava","moulin","kinship","婚姻",FALSE,"reported","attested","179","核心案组","","core_v1","legacy_page_level","","","",NA
+"e023","wife_cl","jacques_cl","kinship","婚姻",FALSE,"reported","attested","179","核心案组","","core_v1","legacy_page_level","","","",NA
+"e024","wife_az","azema","kinship","婚姻",FALSE,"reported","attested","179","核心案组","","core_v1","legacy_page_level","","","",NA
+"e025","germaine","soubeille","kinship","婚姻",FALSE,"reported","attested","174","核心案组","","core_v1","legacy_page_level","","","",NA
+"e026","wife_ca","arnaud_ca","kinship","婚姻",FALSE,"reported","attested","174","核心案组","","core_v1","legacy_page_level","","","",NA
+"e027","douce","aynie","kinship","婚姻",FALSE,"reported","attested","175","核心案组","","core_v1","legacy_page_level","","","",NA
+"e028","mabille","jacques_a","kinship","婚姻",FALSE,"reported","attested","178","核心案组","","core_v1","legacy_page_level","","","",NA
+"e029","malet","wife_m","kinship","婚姻",FALSE,"reported","attested","583","核心案组","","core_v1","legacy_page_level","","","",NA
+"e030","court","wife_court","kinship","婚姻",FALSE,"reported","attested","583","核心案组","","core_v1","legacy_page_level","","","",NA
+"e031","mother_res","resplandie","kinship","亲子",TRUE,"reported","attested","189","核心案组","","core_v1","legacy_page_level","","","",NA
+"e032","mengarde","plaisance","kinship","亲子",TRUE,"reported","attested","172","核心案组","","core_v1","legacy_page_level","","","",NA
+"e033","fabrissa_f","raimonde_f","kinship","亲子",TRUE,"reported","attested","178","核心案组","","core_v1","legacy_page_level","","","",NA
+"e034","guillaume_f","raimonde_f","kinship","亲子",TRUE,"reported","attested","178","核心案组","","core_v1","legacy_page_level","","","",NA
+"e035","navarre","friar_b","kinship","亲子",TRUE,"reported","attested","183","核心案组","","core_v1","legacy_page_level","","","",NA
+"e036","guillemette","fabrissa_b","kinship","亲子",TRUE,"reported","attested","188","核心案组","","core_v1","legacy_page_level","","","",NA
+"e037","guillemette","arnaud_b","kinship","亲子",TRUE,"reported","attested","188","核心案组","","core_v1","legacy_page_level","","","",NA
+"e038","guillemette","jean_b","kinship","亲子",TRUE,"reported","attested","189","核心案组","","core_v1","legacy_page_level","","","",NA
+"e039","touzes","nicolas","kinship","亲子",TRUE,"reported","attested","179","核心案组","","core_v1","legacy_page_level","","","",NA
+"e040","santa","jacqueline","kinship","亲子",TRUE,"reported","attested","172","核心案组","","core_v1","legacy_page_level","","","",NA
+"e041","nespla","daughter_n","kinship","亲子",TRUE,"reported","attested","189","核心案组","","core_v1","legacy_page_level","","","",NA
+"e042","gentille_f","mother_f","kinship","亲子",TRUE,"reported","attested","180","核心案组","","core_v1","legacy_page_level","","","",NA
+"e043","mother_f","pierre_f","kinship","亲子",TRUE,"reported","attested","180","核心案组","","core_v1","legacy_page_level","","","",NA
+"e044","mother_f","raimonde_s","kinship","亲子",TRUE,"reported","attested","180","核心案组","","core_v1","legacy_page_level","","","",NA
+"e045","faure_f","pierre_f","kinship","亲子",TRUE,"reported","attested","180","核心案组","","core_v1","legacy_page_level","","","",NA
+"e046","barc_m","calmelles","kinship","亲子",TRUE,"reported","attested","160","核心案组","","core_v1","legacy_page_level","","","",NA
+"e047","barc_m","barc_d","kinship","亲子",TRUE,"reported","attested","160","核心案组","","core_v1","legacy_page_level","","","",NA
+"e048","guill_a","raimond_a","kinship","亲子",TRUE,"reported","attested","162","核心案组","","core_v1","legacy_page_level","","","",NA
+"e049","guill_a","son_a","kinship","亲子",TRUE,"reported","attested","172","核心案组","","core_v1","legacy_page_level","","","",NA
+"e050","bernarde","raimond_a","kinship","亲子",TRUE,"reported","attested","162","核心案组","","core_v1","legacy_page_level","","","",NA
+"e051","gelis","son_g","kinship","亲子",TRUE,"reported","attested","163","核心案组","","core_v1","legacy_page_level","","","",NA
+"e052","mil_g","wife_g","kinship","亲子",TRUE,"inferred","attested","163","核心案组","","core_v1","legacy_page_level","","","",NA
+"e053","rousse","gelis","kinship","亲子",TRUE,"reported","attested","164","核心案组","","core_v1","legacy_page_level","","","",NA
+"e054","father_g","gelis","kinship","亲子",TRUE,"reported","attested","164","核心案组","","core_v1","legacy_page_level","","","",NA
+"e055","hugou","cousin","kinship","亲子",TRUE,"reported","attested","164","核心案组","","core_v1","legacy_page_level","","","",NA
+"e056","brune_e","barc_f","kinship","亲子",TRUE,"reported","attested","161","核心案组","","core_v1","legacy_page_level","","","",NA
+"e057","douce","daughter_d","kinship","亲子",TRUE,"reported","attested","175","核心案组","","core_v1","legacy_page_level","","","",NA
+"e058","melonier","daughter_m","kinship","亲子",TRUE,"reported","attested","173","核心案组","","core_v1","legacy_page_level","","","",NA
+"e059","malet","son_m","kinship","亲子",TRUE,"reported","attested","161","核心案组","","core_v1","legacy_page_level","","","",NA
+"e060","court","wife_m","kinship","亲子",TRUE,"reported","attested","583","核心案组","","core_v1","legacy_page_level","","","",NA
+"e061","wife_court","wife_m","kinship","亲子",TRUE,"reported","attested","583","核心案组","","core_v1","legacy_page_level","","","",NA
+"e062","raimond_a","girl_a1","kinship","亲子",TRUE,"reported","attested","162","核心案组","","core_v1","legacy_page_level","","","",NA
+"e063","raimond_a","girl_a2","kinship","亲子",TRUE,"reported","attested","162","核心案组","","core_v1","legacy_page_level","","","",NA
+"e064","raimond_a","girl_a3","kinship","亲子",TRUE,"reported","attested","162","核心案组","","core_v1","legacy_page_level","","","",NA
+"e065","navarre","marty","kinship","同胞",FALSE,"reported","attested","183","核心案组","","core_v1","legacy_page_level","","","",NA
+"e066","hugues_d","brunissende","kinship","同胞",FALSE,"reported","attested","159","核心案组","","core_v1","legacy_page_level","","","",NA
+"e067","gelis","cousin","kinship","远亲",FALSE,"reported","attested","164","核心案组","","core_v1","legacy_page_level","","","",NA
+"e068","jacqueline","mengarde","communication","转述见鬼故事",TRUE,"reported","attested","172","Mengarde","街头谈及Arignac债据及铁匠父亲","core_v1","legacy_page_level","","","",NA
+"e069","mengarde","gausia","communication","请求打听亡女",TRUE,"reported","attested","172","Mengarde","向熟人寻求接触途径","core_v1","legacy_page_level","","","",NA
+"e070","gausia","mengarde","communication","带回亡女消息",TRUE,"reported","attested","172-173","Mengarde","Plaisance的破衬衣；指引到Mas","core_v1","legacy_page_level","","","",NA
+"e071","gausia","gelis","communication","既有消息联系",TRUE,"reported","attested","178","Raimonde","Gélis承认曾对Arignac之妻说破衬衣一事","core_v1","legacy_page_level","","","",NA
+"e072","sister_r","mengarde","communication","陪同拜访",TRUE,"reported","attested","173","Mengarde","陪她去Gausia及Gélis处","core_v1","legacy_page_level","","","",NA
+"e073","sister_r","gelis","communication","陪访接触",TRUE,"reported","attested","173","Mengarde","与Mengarde一同拜访","core_v1","legacy_page_level","","","",NA
+"e074","mengarde","raimonde_f","communication","劝说并陪同拜访",TRUE,"reported","attested","178","Raimonde","Raimonde最初表示怀疑","core_v1","legacy_page_level","","","",NA
+"e075","mengarde","gelis","communication","反复查询亡女",TRUE,"reported","attested","173-176","Mengarde","双方家中多次交谈","core_v1","legacy_page_level","","","",NA
+"e076","raimonde_f","gelis","communication","查询亡母与其他死者",TRUE,"reported","attested","178-180","Raimonde","提供母亲姓名；询问并不等于认信","core_v1","legacy_page_level","","","",NA
+"e077","mengarde","navarre","communication","告知通灵者",TRUE,"reported","attested","182","Navarre","教堂归途中交谈","core_v1","legacy_page_level","","","",NA
+"e078","raimonde_f","navarre","communication","告知通灵者",TRUE,"reported","attested","182","Navarre","教堂归途中交谈","core_v1","legacy_page_level","","","",NA
+"e079","mengarde","touzes","communication","同行场合传播",TRUE,"reported","attested","182","Navarre","Touzes在场；不强并p.175的na Touzes","core_v1","legacy_page_level","","","",NA
+"e080","raimonde_f","touzes","communication","转述Nicolas消息",TRUE,"reported","attested","179","Raimonde","讲述少年与Baquet同行","core_v1","legacy_page_level","","","",NA
+"e081","touzes","raimonde_f","communication","请求安排见面",TRUE,"reported","not_fulfilled","179","Raimonde","Raimonde不愿安排；不添加Touzes与Gélis实际见面边","core_v1","legacy_page_level","","","",NA
+"e082","navarre","gelis","communication","主动查询并试探",TRUE,"reported","attested","182-183","Navarre","叫Gélis到家；询问亲属、债务","core_v1","legacy_page_level","","","",NA
+"e083","mengarde","guillemette","communication","介绍并安排来访",TRUE,"reported","attested","188","Guillemette","以双方丧女为背景","core_v1","legacy_page_level","","","",NA
+"e084","guillemette","gelis","communication","接待并查询亲属",TRUE,"reported","attested","188-189","Guillemette","询问女儿和失联儿子","core_v1","legacy_page_level","","","",NA
+"e085","guillemette","ermengarde","communication","转述会面",TRUE,"reported","attested","189","Guillemette","在三名女性所居的房间转述","core_v1","legacy_page_level","","","",NA
+"e086","guillemette","resplandie","communication","转述会面",TRUE,"reported","attested","189","Guillemette","","core_v1","legacy_page_level","","","",NA
+"e087","guillemette","mother_res","communication","转述会面",TRUE,"reported","attested","189","Guillemette","","core_v1","legacy_page_level","","","",NA
+"e088","mengarde","nespla","communication","谈论Gélis",TRUE,"reported","attested","174-175","Mengarde","","core_v1","legacy_page_level","","","",NA
+"e089","mengarde","brune_c","communication","谈论Gélis",TRUE,"reported","attested","175","Mengarde","","core_v1","legacy_page_level","","","",NA
+"e090","mengarde_c","mengarde","communication","请求安排交谈",TRUE,"reported","unknown","176","Mengarde","是否最终见面不明","core_v1","legacy_page_level","","","",NA
+"e091","jeanne_f","mengarde","communication","请求安排交谈",TRUE,"reported","unknown","176","Mengarde","是否最终见面不明","core_v1","legacy_page_level","","","",NA
+"e092","mother_f","raimonde_f","communication","请求代问三位亡亲",TRUE,"reported","not_fulfilled","180","Raimonde","Raimonde没有代问","core_v1","legacy_page_level","","","",NA
+"e093","na_serres","navarre","communication","转述亡夫再婚消息",TRUE,"reported","attested","183","Navarre","Navarre以此质疑Gélis","core_v1","legacy_page_level","","","",NA
+"e094","gelis","na_serres","communication","传达亡夫消息",TRUE,"reported","attested","183","Navarre","据Navarre听na Serres及Gélis谈述","core_v1","legacy_page_level","","","",NA
+"e095","gelis","monesple","communication","秘密谈论死者",TRUE,"reported","attested","185-186","Monesple","包括Hugues和死后补赎","core_v1","legacy_page_level","","","",NA
+"e096","gelis","brunissende","communication","传达兄弟请求",TRUE,"reported","attested","159","Gélis","请求举行弥撒","core_v1","legacy_page_level","","","",NA
+"e097","gelis","barc_d","communication","传达亡母并带回反问",TRUE,"reported","attested","160","Gélis","关于回丈夫家与施舍","core_v1","legacy_page_level","","","",NA
+"e098","barc_d","gelis","communication","反问母亲生前做法",TRUE,"reported","attested","160","Gélis","要求转问母亲","core_v1","legacy_page_level","","","",NA
+"e099","gelis","son_a","communication","催促归还债据",TRUE,"reported","attested","172","Mengarde转述Jacqueline","儿子起初拒绝；第二次警告后据说执行","core_v1","legacy_page_level","","","",NA
+"e100","raimond_a","gelis","communication","希望知道夭折女儿处境",TRUE,"reported","attested","162","Gélis","","core_v1","legacy_page_level","","","",NA
+"e101","cousin","gelis","communication","传递亡父母的请求",TRUE,"reported","attested","164","Gélis","","core_v1","legacy_page_level","","","",NA
+"e102","gelis","brune_s","communication","转达灯油弥撒请求",TRUE,"reported","attested","165","Gélis","Gélis相信她已履行，并非妻子本人确认","core_v1","legacy_page_level","","","",NA
+"e103","gelis","brune_e","communication","预定传递衣饰警告",TRUE,"reported","not_fulfilled","161","Gélis","Gélis明确没有传话","core_v1","legacy_page_level","","","",NA
+"e104","gelis","thomas","communication","预定传递酒桶警告",TRUE,"reported","not_fulfilled","162","Gélis","Gélis明确没有传话","core_v1","legacy_page_level","","","",NA
+"e105","gelis","hugues_d","social","家内服务",TRUE,"reported","attested","158","Gélis","生前familier et domestique；非显灵关系","core_v1","legacy_page_level","","","",NA
+"e106","gelis","saisset","social","曾为其服务",TRUE,"reported","attested","159-160","Gélis","亡主教承认未充分酬劳","core_v1","legacy_page_level","","","",NA
+"e107","vidal","saisset","social","旧近侍服务",TRUE,"reported","attested","159-160","Gélis","由亡主教话语交代","core_v1","legacy_page_level","","","",NA
+"e108","catala","saisset","social","旧近侍服务",TRUE,"reported","attested","159-160","Gélis","由亡主教话语交代","core_v1","legacy_page_level","","","",NA
+"e109","mengarde","gelis","social","提供饮食／共餐",TRUE,"reported","attested","174","Mengarde","多次饮食、一次caséade","core_v1","legacy_page_level","","","",NA
+"e110","raimonde_f","gelis","social","小额赠予／共餐",TRUE,"reported","attested","179","Raimonde","给钱及食物；不能推为固定收费","core_v1","legacy_page_level","","","",NA
+"e111","guillemette","gelis","social","留饭共餐",TRUE,"reported","attested","188-189","Guillemette","面包、酒、肉","core_v1","legacy_page_level","","","",NA
+"e112","arnaud_b","gelis","social","同桌吃饭",TRUE,"reported","attested","188","Guillemette","不得由剥羊推断其职业","core_v1","legacy_page_level","","","",NA
+"e113","touzes","navarre","social","一同去教堂",TRUE,"reported","attested","182","Navarre","实际同行","core_v1","legacy_page_level","","","",NA
+"e114","monesple","hugues_d","social","批评其侵害教会收入",TRUE,"reported","attested","186","Monesple","Bézac收入冲突","core_v1","legacy_page_level","","","",NA
+"e115","monesple","germain","social","批评其侵害教会收入",TRUE,"reported","attested","186","Monesple","在与Gélis的谈话中批评","core_v1","legacy_page_level","","","",NA
+"e116","malet","baille","social","调解争执",TRUE,"reported","attested","828","Guillaume Baille","调解生前事件","core_v1","legacy_page_level","","","",NA
+"e117","malet","baragnon","social","调解争执",TRUE,"reported","attested","828","Guillaume Baille","不能据此推定正式官职","core_v1","legacy_page_level","","","",NA
+"e118","baragnon","baille","social","称对方为异端",TRUE,"reported","attested","828","Guillaume Baille","名誉冲突","core_v1","legacy_page_level","","","",NA
+"e119","pierre_s","pons_b","social","借贷",TRUE,"reported","attested","183","Navarre","Navarre面临债务困难","core_v1","legacy_page_level","","","",NA
+"e120","authie","wife_m","social","称作朋友和信徒",TRUE,"reported","attested","583","Sibille转述Authié","多层转述，不等于该女性认信","core_v1","legacy_page_level","","","",NA
+"e121","authie","wife_court","social","称作朋友和信徒",TRUE,"reported","attested","583","Sibille转述Authié","多层转述","core_v1","legacy_page_level","","","",NA
+"e122","brunissende","gelis","ritual","交付弥撒费用",TRUE,"reported","attested","185","Monesple","四个图卢兹deniers","core_v1","legacy_page_level","","","",NA
+"e123","gelis","monesple","ritual","转交弥撒费用",TRUE,"reported","attested","185","Monesple","为Hugues举行弥撒","core_v1","legacy_page_level","","","",NA
+"e124","raimonde_f","monesple","ritual","委托弥撒",TRUE,"reported","attested","178-179","Raimonde","母亲Fabrissa；明确点名神父","core_v1","legacy_page_level","","","",NA
+"e125","barc_d","philippa","ritual","建议借其家施舍",TRUE,"reported","proposed","160","Gélis","这是亡母提出的替代方案，并无执行确认","core_v1","legacy_page_level","","","",NA
+"e126","hugues_d","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","158-159","Gélis","首次显现；要求弥撒","core_v1","legacy_page_level","","","",NA
+"e127","rous","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","159","Gélis","问候，无具体求助","core_v1","legacy_page_level","","","",NA
+"e128","athon","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","159","Gélis","祈祷与得救看法","core_v1","legacy_page_level","","","",NA
+"e129","saisset","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","159-160","Gélis","旧服务与祈祷","core_v1","legacy_page_level","","","",NA
+"e130","durand","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","160","Gélis","请求祈祷","core_v1","legacy_page_level","","","",NA
+"e131","barc_m","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","160","Gélis","回夫家与施舍要求","core_v1","legacy_page_level","","","",NA
+"e132","malet","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","161","Gélis","希望儿子获释","core_v1","legacy_page_level","","","",NA
+"e133","barc_f","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","161","Gélis","给母亲的衣饰警告","core_v1","legacy_page_level","","","",NA
+"e134","pons_b","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","161-164","Gélis","灯油、弥撒与惩打","core_v1","legacy_page_level","","","",NA
+"e135","gasc","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","161","Gélis","为孙辈忧心；孙辈人数姓名未列","core_v1","legacy_page_level","","","",NA
+"e136","burgous","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","161","Gélis","询问被审讯处境","core_v1","legacy_page_level","","","",NA
+"e137","marty","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","162","Gélis","白衣医生","core_v1","legacy_page_level","","","",NA
+"e138","guill_a","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","162","Gélis","谈论亡孙女及朝圣","core_v1","legacy_page_level","","","",NA
+"e139","bernarde","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","162,166","Gélis","说明夭折孙女处境","core_v1","legacy_page_level","","","",NA
+"e140","sache","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","165","Gélis","灯油和弥撒","core_v1","legacy_page_level","","","",NA
+"e141","squire1","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","161","Gélis","骑马受创","core_v1","legacy_page_level","","","",NA
+"e142","squire2","gelis","apparition","声称显现／交谈",TRUE,"vision_claim","attested","161","Gélis","骑马受创","core_v1","legacy_page_level","","","",NA
+"e143","plaisance","gelis","apparition","被转述的死者接触",TRUE,"vision_claim","attested","173","Mengarde","Gélis报告亡女消息","core_v1","legacy_page_level","","","",NA
+"e144","fabrissa_f","gelis","apparition","被转述的死者接触",TRUE,"vision_claim","attested","178","Raimonde","Gélis声称查到亡母","core_v1","legacy_page_level","","","",NA
+"e145","fabrissa_b","gelis","apparition","被转述的死者接触",TRUE,"vision_claim","attested","188-189","Guillemette","Gélis报告亡女的问候和要求","core_v1","legacy_page_level","","","",NA
+"e146","tour","gelis","apparition","被转述的死者接触",TRUE,"vision_claim","attested","175,180","Mengarde及Raimonde","Gélis声称被打","core_v1","legacy_page_level","","","",NA
+"e147","empereur","gelis","apparition","被转述的死者接触",TRUE,"vision_claim","attested","175","Mengarde","据Gélis的返乡补赎故事","core_v1","legacy_page_level","","","",NA
+"e148","rousse","cousin","apparition","请求好头巾",TRUE,"vision_claim","attested","164","Gélis","远亲称见亡母","core_v1","legacy_page_level","","","",NA
+"e149","father_g","cousin","apparition","请求处理谷物欠债",TRUE,"vision_claim","attested","164","Gélis","","core_v1","legacy_page_level","","","",NA
+"e150","mil_g","son_g","care","拥抱亲吻祝福",TRUE,"vision_claim","attested","163","Gélis","Gélis称亲见","core_v1","legacy_page_level","","","",NA
+"e151","plaisance","mengarde","care","劝母亲进食长寿",TRUE,"vision_claim","attested","176","Mengarde","经Gélis转述；非直接见面","core_v1","legacy_page_level","","","",NA
+"e152","pons_b","navarre","care","要求保留整洁卧室",TRUE,"vision_claim","attested","182","Navarre","经Gélis转述；称每周六回来","core_v1","legacy_page_level","","","",NA
+"e153","douce","daughter_d","care","被叙述的杀女意图",TRUE,"vision_claim","not_fulfilled","175","Mengarde","因无另一继承人而未实行；不是照护的正面行为","core_v1","legacy_page_level","","","",NA
+"e154","douce","jean_ca","care","死后敌意",TRUE,"vision_claim","attested","175","Mengarde","亲属位置未知","core_v1","legacy_page_level","","","",NA
+"e155","plaisance","daughter_m","afterlife","据称结伴同行",FALSE,"vision_claim","attested","173","Mengarde","","core_v1","legacy_page_level","","","",NA
+"e156","fabrissa_f","gentille_c","afterlife","据称结伴同行",FALSE,"vision_claim","attested","178","Raimonde","","core_v1","legacy_page_level","","","",NA
+"e157","fabrissa_f","mabille","afterlife","据称结伴同行",FALSE,"vision_claim","attested","178","Raimonde","","core_v1","legacy_page_level","","","",NA
+"e158","fabrissa_b","daughter_n","afterlife","据称结伴同行",FALSE,"vision_claim","attested","189","Guillemette","","core_v1","legacy_page_level","","","",NA
+"e159","nicolas","baquet","afterlife","据称结伴同行",FALSE,"vision_claim","attested","179","Raimonde","","core_v1","legacy_page_level","","","",NA
+"e160","barc_f","ava","afterlife","据称结伴同行",FALSE,"vision_claim","attested","179","Raimonde","","core_v1","legacy_page_level","","","",NA
+"e161","fournier","gelis","judicial","审讯／处理案件",TRUE,"procedural","attested","158,167-168","程序记录","","core_v1","legacy_page_level","","","",NA
+"e162","fournier","mengarde","judicial","审讯／处理案件",TRUE,"procedural","attested","172,175-176","程序记录","","core_v1","legacy_page_level","","","",NA
+"e163","fournier","raimonde_f","judicial","审讯／处理案件",TRUE,"procedural","attested","178,180-181","程序记录","","core_v1","legacy_page_level","","","",NA
+"e164","fournier","navarre","judicial","审讯／处理案件",TRUE,"procedural","attested","182-184","程序记录","","core_v1","legacy_page_level","","","",NA
+"e165","fournier","monesple","judicial","审讯／处理案件",TRUE,"procedural","attested","185-187","程序记录","","core_v1","legacy_page_level","","","",NA
+"e166","fournier","guillemette","judicial","审讯／处理案件",TRUE,"procedural","attested","188-190","程序记录","","core_v1","legacy_page_level","","","",NA
+"e167","germain","gelis","judicial","和解程序在场",TRUE,"procedural","attested","168","程序记录","不意味着听到关于自己的具体叙述","core_v1","legacy_page_level","","","",NA
+"x01_001","maucasal","aude","kinship","父女",TRUE,"reported","attested","31","程序记录／Aude","","expansion_01","excerpt_and_pdf_page","v001","C001","",67
+"x01_002","faure_m","aude","kinship","婚姻",FALSE,"reported","attested","31","程序记录／Aude","","expansion_01","excerpt_and_pdf_page","v001","C001","",67
+"x01_003","faure_m","aude","social","以遣离相威胁并要求告解",TRUE,"reported","attested","32","Aude","","expansion_01","excerpt_and_pdf_page","v002","C001","近期重病时",68
+"x01_004","aude","faure_m","communication","透露信仰困扰",TRUE,"reported","attested","32","Aude","","expansion_01","excerpt_and_pdf_page","v002","C001","近期重病时",68
+"x01_005","garaud","aude","communication","劝诫并讲述圣餐奇迹故事",TRUE,"reported","attested","32","Aude","故事中的匿名古代人物不进入当时地方社会网","expansion_01","excerpt_and_pdf_page","v003","C001","",68
+"x01_006","aude","cure_sc","ritual","告解",TRUE,"reported","attested","33","Aude","","expansion_01","excerpt_and_pdf_page","v004","C001","约一月前",69
+"x01_007","cure_sc","aude","ritual","减轻所提补赎",TRUE,"reported","attested","33","Aude","","expansion_01","excerpt_and_pdf_page","v004","C001","约一月前",69
+"x01_008","faure_m","priest_aude","communication","请神父为妻告解",TRUE,"reported","attested","34","Guillaume Fauré","","expansion_01","excerpt_and_pdf_page","v005","C001","",70
+"x01_009","aude","priest_aude","ritual","告解",TRUE,"reported","attested","34","Guillaume Fauré","","expansion_01","excerpt_and_pdf_page","v005","C001","",70
+"x01_010","aude","garaud","communication","请求经常探访安慰",TRUE,"reported","unknown","36","Ermengarde Garaud","","expansion_01","excerpt_and_pdf_page","v006","C001","",72
+"x01_011","garaud","infirmerie","communication","透露Aude的话",TRUE,"reported","attested","36","Ermengarde Garaud","","expansion_01","excerpt_and_pdf_page","v007","C001","",72
+"x01_012","garaud","infirmerie","ritual","病中告解",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v009","C001","前一周四清晨",73
+"x01_013","infirmerie","escribe","communication","召集听取Ermengarde陈述",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v010","C001","",73
+"x01_014","garaud","escribe","communication","病榻前转述Aude言语",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v010","C001","",73
+"x01_015","infirmerie","quie","communication","召集听取Ermengarde陈述",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v010","C001","",73
+"x01_016","garaud","quie","communication","病榻前转述Aude言语",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v010","C001","",73
+"x01_017","infirmerie","montventoux","communication","召集听取Ermengarde陈述",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v010","C001","",73
+"x01_018","garaud","montventoux","communication","病榻前转述Aude言语",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v010","C001","",73
+"x01_019","infirmerie","jean_garaud","communication","召集听取Ermengarde陈述",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v010","C001","",73
+"x01_020","garaud","jean_garaud","communication","病榻前转述Aude言语",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v010","C001","",73
+"x01_021","garaud","jean_garaud","kinship","母子",TRUE,"reported","attested","37","Guillaume de l’Infirmerie","","expansion_01","excerpt_and_pdf_page","v010","C001","",73
+"x01_022","faure_m","alazays_nurse","social","雇用乳母",TRUE,"reported","attested","39","Aude","","expansion_01","excerpt_and_pdf_page","v011","C001","",75
+"x01_023","alazays_nurse","pregolh","kinship","婚姻",FALSE,"reported","attested","39","Aude","","expansion_01","excerpt_and_pdf_page","v011","C001","",75
+"x01_024","aude","aude_son","kinship","母子",TRUE,"reported","attested","39","Aude","","expansion_01","excerpt_and_pdf_page","v011","C001","",75
+"x01_025","alazays_nurse","aude_son","social","乳养",TRUE,"reported","attested","39","Aude","","expansion_01","excerpt_and_pdf_page","v011","C001","",75
+"x01_026","arnaud_athon","guillemette_athon","kinship","父女",TRUE,"reported","attested","42","程序记录／Guillemette d’Athon","","expansion_01","excerpt_and_pdf_page","v012","C001","",78
+"x01_027","guillemette_athon","aude","social","家庭服务／女仆",TRUE,"reported","attested","42","程序记录／Guillemette d’Athon","","expansion_01","excerpt_and_pdf_page","v012","C001","",78
+"x01_028","alazays_g","aude","social","晚间探病并劝慰",TRUE,"reported","attested","42","Aude及Alazays、Raimonde当面对质","见同页随后承认；先前否认不删除，记入争议记录","expansion_01","excerpt_and_pdf_page","v013","C001","",78
+"x01_029","raimonde_g","aude","social","晚间探病并劝慰",TRUE,"reported","attested","42","Aude及Alazays、Raimonde当面对质","见同页随后承认；先前否认不删除，记入争议记录","expansion_01","excerpt_and_pdf_page","v013","C001","",78
+"x01_030","alazays_g","arnaud_g","kinship","生前婚姻",FALSE,"reported","attested","41","程序记录","","expansion_01","excerpt_and_pdf_page","v014","C001","",77
+"x01_031","raimonde_g","pierre_g","kinship","生前婚姻",FALSE,"reported","attested","41","程序记录","","expansion_01","excerpt_and_pdf_page","v014","C001","",77
+"x01_032","alazays_nurse","aude","social","共同前往领圣餐地点并返回",FALSE,"reported","attested","43","Alazays乳母","","expansion_01","excerpt_and_pdf_page","v015","C001","",79
+"x01_033","alazays_nurse","aude","ritual","应要求跪地祈祷",TRUE,"reported","attested","43","Alazays乳母","","expansion_01","excerpt_and_pdf_page","v015","C001","",79
+"x01_034","guillemette_athon","aude","ritual","应要求跪地祈祷",TRUE,"reported","attested","43","Alazays乳母","","expansion_01","excerpt_and_pdf_page","v015","C001","",79
+"x01_035","verdier","fournier","judicial","受召协助保密调查",TRUE,"procedural","attested","31","程序记录","","expansion_01","excerpt_and_pdf_page","v017","C001","",67
+"x01_036","bilheres","fournier","judicial","受召协助保密调查",TRUE,"procedural","attested","31","程序记录","","expansion_01","excerpt_and_pdf_page","v017","C001","",67
+"x01_037","saintjulien","fournier","judicial","受召协助保密调查",TRUE,"procedural","attested","31","程序记录","","expansion_01","excerpt_and_pdf_page","v017","C001","",67
+"x01_038","gaubert","fournier","judicial","受召协助保密调查",TRUE,"procedural","attested","31","程序记录","","expansion_01","excerpt_and_pdf_page","v017","C001","",67
+"x01_039","pardailhan","fournier","judicial","受召协助保密调查",TRUE,"procedural","attested","31","程序记录","","expansion_01","excerpt_and_pdf_page","v017","C001","",67
+"x01_040","fournier","aude","judicial","主持审讯",TRUE,"procedural","attested","31","程序记录","","expansion_01","excerpt_and_pdf_page","v017","C001","",67
+"x01_041","arnaud_melonier","fournier","judicial","判决程序见证",TRUE,"procedural","attested","46","程序记录","","expansion_01","excerpt_and_pdf_page","v018","C001","",82
+"x01_042","masse","sabatier","kinship","姻亲（beau-frère）",FALSE,"reported","attested","49","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v019","C002","",85
+"x01_043","masse","sabatier","social","据称诬告后临终求原谅",TRUE,"reported","attested","49","Pierre Sabatier","仅Sabatier陈述；p.50-51后承认确说过带条件的话，不代表诬告已被证实","expansion_01","excerpt_and_pdf_page","v019","C002","",85
+"x01_044","sabatier","helis","communication","评论教会仪式",TRUE,"reported","attested","50","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v020","C002","",86
+"x01_045","sabatier","gout","communication","评论教会仪式",TRUE,"reported","attested","50","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v020","C002","",86
+"x01_046","helis","mate","kinship","生前婚姻",FALSE,"reported","attested","50","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v020","C002","",86
+"x01_047","sabatier","wife_sabatier","kinship","婚姻",FALSE,"reported","attested","50","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v021","C002","上年Montserrat；当年Compostelle",86
+"x01_048","sabatier","wife_sabatier","social","共同朝圣",FALSE,"reported","attested","50","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v021","C002","上年Montserrat；当年Compostelle",86
+"x01_049","masse","sabatier","social","传授织工手艺",TRUE,"reported","attested","51","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v022","C002","约25年前的谈话；教学在后",87
+"x01_050","masse","sabatier","communication","询问临终蜡烛意义",TRUE,"reported","attested","51","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v022","C002","约25年前的谈话；教学在后",87
+"x01_051","sabatier","masse","communication","解释蜡烛与认罪悔改",TRUE,"reported","attested","51","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v022","C002","约25年前的谈话；教学在后",87
+"x01_052","father_sabatier","sabatier","kinship","父子",TRUE,"reported","attested","51","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v023","C002","",87
+"x01_053","mother_sabatier","sabatier","kinship","母子",TRUE,"reported","attested","51","Pierre Sabatier","","expansion_01","excerpt_and_pdf_page","v023","C002","",87
+"x01_054","camelle","fournier","judicial","担任审讯顾问并宣誓保密",TRUE,"procedural","attested","50","程序记录","","expansion_01","excerpt_and_pdf_page","v024","C002","",86
+"x01_055","saintefoy","agnes","social","同屋居住",FALSE,"reported","attested","55","程序记录","","expansion_01","excerpt_and_pdf_page","v025","C003","",91
+"x01_056","saintefoy","jean_v","social","同屋居住",FALSE,"reported","attested","55","程序记录","","expansion_01","excerpt_and_pdf_page","v025","C003","",91
+"x01_057","saintefoy","huguette","social","同屋居住",FALSE,"reported","attested","55","程序记录","","expansion_01","excerpt_and_pdf_page","v025","C003","",91
+"x01_058","jean_lorrain","saintefoy","ritual","授执事职",TRUE,"reported","attested","104","Raimond de Sainte-Foy","","expansion_01","excerpt_and_pdf_page","v026","C003","被捕前长期经历；相对年数见原文",144
+"x01_059","jean_lorrain","saintefoy","communication","教授圣经并安排学习",TRUE,"reported","attested","104","Raimond de Sainte-Foy","","expansion_01","excerpt_and_pdf_page","v026","C003","被捕前长期经历；相对年数见原文",144
+"x01_060","michel","saintefoy","communication","教授圣经",TRUE,"reported","attested","104","Raimond de Sainte-Foy","","expansion_01","excerpt_and_pdf_page","v026","C003","被捕前长期经历；相对年数见原文",144
+"x01_061","saintefoy","jean_lorrain","care","明确表达死后仍然爱戴",TRUE,"reported","attested","104","Raimond de Sainte-Foy","没有显灵；与主张不为死者行代祷并存","expansion_01","excerpt_and_pdf_page","v027","C003","",144
+"x01_062","saintefoy","jean_lorrain","social","共同旅行包括意大利",FALSE,"reported","attested","104","Raimond de Sainte-Foy","","expansion_01","excerpt_and_pdf_page","v027","C003","",144
+"x01_063","saintefoy","michel","social","长期相处／停留",FALSE,"reported","attested","104","Raimond de Sainte-Foy","","expansion_01","excerpt_and_pdf_page","v028","C003","",144
+"x01_064","saintefoy","barthelemy_w","social","长期相处／停留",FALSE,"reported","attested","104","Raimond de Sainte-Foy","","expansion_01","excerpt_and_pdf_page","v028","C003","",144
+"x01_065","saintefoy","moran","social","长期相处／停留",FALSE,"reported","attested","104","Raimond de Sainte-Foy","","expansion_01","excerpt_and_pdf_page","v028","C003","",144
+"x01_066","agnes","francou","kinship","生前婚姻",FALSE,"reported","attested","123","程序记录／Agnès","","expansion_01","excerpt_and_pdf_page","v029","C004","",163
+"x01_067","agnes","huguette_host","social","在Beaumont同住约一月",FALSE,"reported","attested","124","Agnès","","expansion_01","excerpt_and_pdf_page","v030","C004","",164
+"x01_068","agnes","saintefoy","social","乳养",TRUE,"reported","attested","125","Agnès","","expansion_01","excerpt_and_pdf_page","v031","C004","Raimond婴儿期",165
+"x01_069","ray_father","agnes","social","母亲死后雇乳母",TRUE,"reported","attested","125","Agnès","","expansion_01","excerpt_and_pdf_page","v031","C004","Raimond婴儿期",165
+"x01_070","ray_father","saintefoy","kinship","父子",TRUE,"reported","attested","125","Agnès","","expansion_01","excerpt_and_pdf_page","v031","C004","Raimond婴儿期",165
+"x01_071","ray_mother","saintefoy","kinship","母子",TRUE,"reported","attested","125","Agnès","","expansion_01","excerpt_and_pdf_page","v031","C004","Raimond婴儿期",165
+"x01_072","jeanne_m_sis","arnaud_melonier","kinship","姊妹／兄弟",FALSE,"reported","attested","125","Agnès","","expansion_01","excerpt_and_pdf_page","v032","C004","",165
+"x01_073","guillemette_mason","mason","kinship","婚姻",FALSE,"reported","attested","125","Agnès","","expansion_01","excerpt_and_pdf_page","v032","C004","",165
+"x01_074","jeanne_m_sis","jeanne_ray","social","来访、共食饮酒",FALSE,"reported","attested","125","Agnès","","expansion_01","excerpt_and_pdf_page","v032","C004","",165
+"x01_075","guillemette_mason","jeanne_ray","social","来访、共食饮酒",FALSE,"reported","attested","125","Agnès","","expansion_01","excerpt_and_pdf_page","v032","C004","",165
+"x01_076","jeanne_ray","saintefoy","kinship","姊妹／兄弟",FALSE,"reported","attested","125","Agnès","","expansion_01","excerpt_and_pdf_page","v032","C004","",165
+"x01_077","saintefoy","agnes","communication","教授禁誓",TRUE,"reported","attested","126","Agnès","与p.123初称只有神父Etienne教导不一致，保留变更","expansion_01","excerpt_and_pdf_page","v033","C004","约二十年",166
+"x01_078","jean_lorrain","jean_v","communication","用俗语读福音教授",TRUE,"reported","attested","131","Jean de Vienne","","expansion_01","excerpt_and_pdf_page","v034","C005","约十二年前",171
+"x01_079","mourier","jean_v","communication","通过熟人引介至Jean le Lorrain",TRUE,"reported","attested","131","Jean de Vienne","中间熟人匿名，未将两人伪装成当面直接交谈","expansion_01","excerpt_and_pdf_page","v035","C005","",171
+"x01_080","jean_v","mourier","social","受托换金币并交还",TRUE,"reported","attested","132","Jean de Vienne","","expansion_01","excerpt_and_pdf_page","v036","C005","",172
+"x01_081","jean_v","saintefoy","social","Montpellier共饮",FALSE,"reported","attested","132","Jean de Vienne","","expansion_01","excerpt_and_pdf_page","v037","C005","被捕前三年约",172
+"x01_082","jean_v","huguette","kinship","婚姻",FALSE,"reported","attested","132","Jean de Vienne","","expansion_01","excerpt_and_pdf_page","v038","C005","",172
+"x01_083","huguette","jean_v","communication","婚前透露所属信仰",TRUE,"reported","attested","132","Jean de Vienne","","expansion_01","excerpt_and_pdf_page","v038","C005","",172
+"x01_084","jacqueline_av","jean_v","communication","教授信条及圣事分类",TRUE,"reported","attested","133","Jean de Vienne","","expansion_01","excerpt_and_pdf_page","v039","C005","两年前",173
+"x01_085","roux","huguette","kinship","父女",TRUE,"reported","attested","141","Huguette","","expansion_01","excerpt_and_pdf_page","v040","C006","",181
+"x01_086","petrone_mother","huguette","kinship","母女",TRUE,"reported","attested","141","Huguette","","expansion_01","excerpt_and_pdf_page","v040","C006","",181
+"x01_087","petrone_mother","huguette","social","父死后带往Arles抚养",TRUE,"reported","attested","141","Huguette","","expansion_01","excerpt_and_pdf_page","v040","C006","",181
+"x01_088","petrone","jean_v","kinship","姊妹／兄弟",FALSE,"reported","attested","141","Huguette","","expansion_01","excerpt_and_pdf_page","v042","C006","",181
+"x01_089","huguette","petrone","social","共同迁往Pamiers",FALSE,"reported","attested","141","Huguette","","expansion_01","excerpt_and_pdf_page","v042","C006","",181
+"x01_090","etienne_servant","saintefoy","social","仆役服务",TRUE,"reported","attested","147","Huguette","","expansion_01","excerpt_and_pdf_page","v043","C006","",187
+"x01_091","etienne_servant","petrone","social","一同逃离",FALSE,"reported","attested","147","Huguette","","expansion_01","excerpt_and_pdf_page","v043","C006","",187
+"x01_092","saintefoy","etienne_nephew","kinship","叔伯舅／侄甥（方向细节未明）",TRUE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v044","C006","",185
+"x01_093","jacqueline_ray","saintefoy","kinship","亲属（具体未明）",FALSE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v044","C006","",185
+"x01_094","huguette","bertrande","social","居住其家",FALSE,"reported","attested","142","Huguette","","expansion_01","excerpt_and_pdf_page","v045","C006","约十二岁；约十八年前",182
+"x01_095","guirard","huguette","communication","教授禁誓",TRUE,"reported","attested","142","Huguette","","expansion_01","excerpt_and_pdf_page","v045","C006","约十二岁；约十八年前",182
+"x01_096","huguette","guirard","social","提供饮食",TRUE,"reported","attested","142","Huguette","","expansion_01","excerpt_and_pdf_page","v046","C006","",182
+"x01_097","guirard","huguette","social","给一枚银币",TRUE,"reported","attested","142","Huguette","","expansion_01","excerpt_and_pdf_page","v046","C006","",182
+"x01_098","guirard","huguette","communication","引导去Montpellier见Jean",TRUE,"reported","attested","142","Huguette","","expansion_01","excerpt_and_pdf_page","v047","C006","约十六年前",182
+"x01_099","jean_lorrain","huguette","communication","教导禁誓及否认死后炼狱",TRUE,"reported","attested","142","Huguette","","expansion_01","excerpt_and_pdf_page","v047","C006","约十六年前",182
+"x01_100","huguette","jean_lorrain","social","赠半磅椰枣",TRUE,"reported","attested","143","Huguette","","expansion_01","excerpt_and_pdf_page","v048","C006","",183
+"x01_101","jean_lorrain","huguette","social","赠亚麻头巾和腰带",TRUE,"reported","attested","143","Huguette","","expansion_01","excerpt_and_pdf_page","v048","C006","",183
+"x01_102","huguette","jean_lorrain","ritual","多次告解并相信获赦",TRUE,"reported","attested","143","Huguette","","expansion_01","excerpt_and_pdf_page","v048","C006","",183
+"x01_103","huguette","jeanne_m_wife","social","共同前往教堂",FALSE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v049","C006","圣安妮日一次；另有平时同行",185
+"x01_104","huguette","barcelone_bl","social","共同前往教堂",FALSE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v049","C006","圣安妮日一次；另有平时同行",185
+"x01_105","huguette","jeanne_pc","social","共同前往教堂",FALSE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v049","C006","圣安妮日一次；另有平时同行",185
+"x01_106","huguette","guillemette_paredes","social","共同前往教堂",FALSE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v049","C006","圣安妮日一次；另有平时同行",185
+"x01_107","jeanne_m_wife","arnaud_melonier","kinship","婚姻",FALSE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v049","C006","圣安妮日一次；另有平时同行",185
+"x01_108","barcelone_bl","bernard_loubens","kinship","婚姻",FALSE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v049","C006","圣安妮日一次；另有平时同行",185
+"x01_109","jeanne_pc","pierre_calmelles","kinship","婚姻",FALSE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v049","C006","圣安妮日一次；另有平时同行",185
+"x01_110","guillemette_paredes","jean_paredes","kinship","婚姻",FALSE,"reported","attested","145","Huguette","","expansion_01","excerpt_and_pdf_page","v049","C006","圣安妮日一次；另有平时同行",185
+"x01_111","huguette","jean_v","communication","讨论并积极劝丈夫接受信仰",TRUE,"reported","attested","146","Huguette","","expansion_01","excerpt_and_pdf_page","v050","C006","",186
+"x01_112","gentille_e","escoulan","kinship","婚姻",FALSE,"reported","attested","151","Gentille","","expansion_01","excerpt_and_pdf_page","v051","C007","",191
+"x01_113","gaillarde","germain_c","kinship","婚姻",FALSE,"reported","attested","151","Gentille","","expansion_01","excerpt_and_pdf_page","v052","C007","上周五",191
+"x01_114","gaillarde","escoulan","communication","反对称处刑者为好人",TRUE,"reported","attested","151","Gentille","她对一群听众发言；不据此构造全体共场两两关系","expansion_01","excerpt_and_pdf_page","v052","C007","上周五",191
+"x01_115","gentille_e","escoulan","communication","要求停止议论并离开酒馆",TRUE,"reported","attested","151","Gentille","","expansion_01","excerpt_and_pdf_page","v053","C007","",191
+"x01_116","faure_montaut","escoulan","communication","辩论禁誓与处刑",TRUE,"reported","attested","153","Guillaume Bauzeil","","expansion_01","excerpt_and_pdf_page","v054","C007","1320年5月2日",193
+"x01_117","bauzeil","faure_montaut","social","酒馆共饮",FALSE,"reported","attested","153","Guillaume Bauzeil","","expansion_01","excerpt_and_pdf_page","v055","C007","1320年5月2日",193
+"x01_118","bauzeil","escribe","social","酒馆共饮",FALSE,"reported","attested","153","Guillaume Bauzeil","","expansion_01","excerpt_and_pdf_page","v055","C007","1320年5月2日",193
+"x01_119","bauzeil","prayols","social","酒馆共饮",FALSE,"reported","attested","153","Guillaume Bauzeil","","expansion_01","excerpt_and_pdf_page","v055","C007","1320年5月2日",193
+"x01_120","bauzeil","gaillarde","social","酒馆共饮",FALSE,"reported","attested","153","Guillaume Bauzeil","","expansion_01","excerpt_and_pdf_page","v055","C007","1320年5月2日",193
+"x01_121","escoulan","escribe","communication","称Raimond因批评教士被烧死",TRUE,"reported","attested","153","Geoffroy Escribe","","expansion_01","excerpt_and_pdf_page","v056","C007","1320年5月2日",193
+"x01_122","escoulan","lombard","communication","谈论据闻处刑及灵魂获救",TRUE,"reported","attested","155","Bérenger Escoulan","","expansion_01","excerpt_and_pdf_page","v057","C007","处刑当天",195
+"x01_123","escoulan","letinier","communication","谈论据闻处刑及灵魂获救",TRUE,"reported","attested","155","Bérenger Escoulan","","expansion_01","excerpt_and_pdf_page","v057","C007","处刑当天",195
+"x01_124","escoulan","bernard_serny","communication","谈论据闻处刑及灵魂获救",TRUE,"reported","attested","155","Bérenger Escoulan","","expansion_01","excerpt_and_pdf_page","v057","C007","处刑当天",195
+"x01_125","bernard_serny","escoulan","communication","要求停止质疑审判者",TRUE,"reported","attested","155","Bérenger Escoulan","","expansion_01","excerpt_and_pdf_page","v058","C007","处刑日返回Foix途中",195
+"x01_126","carbonnier","escoulan","communication","询问是否目睹处刑",TRUE,"reported","attested","155","Bérenger Escoulan","","expansion_01","excerpt_and_pdf_page","v059","C007","处刑翌日",195
+"x01_127","letinier","escoulan","communication","询问是否目睹处刑",TRUE,"reported","attested","155","Bérenger Escoulan","","expansion_01","excerpt_and_pdf_page","v059","C007","处刑翌日",195
+"x01_128","mon_vernat","escoulan","communication","询问是否见过被处刑者",TRUE,"reported","attested","155","Bérenger Escoulan","","expansion_01","excerpt_and_pdf_page","v060","C007","",195
+"x01_129","alias","escoulan","communication","劝其相信为真话起誓非罪",TRUE,"reported","attested","155","Bérenger Escoulan","","expansion_01","excerpt_and_pdf_page","v061","C007","",195
+"x01_130","faure_montaut","escoulan","communication","转述Raimond反对死者代祷的主张",TRUE,"reported","attested","152","Fauré de Montaut","","expansion_01","excerpt_and_pdf_page","v064","C007","",192

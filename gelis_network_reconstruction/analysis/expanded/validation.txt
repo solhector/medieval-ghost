@@ -1,0 +1,6 @@
+PASS: 201 nodes; 297 relation assertions
+New: 83 nodes; 130 assertions; 64 excerpt records
+PASS: unique keys, complete edge endpoints, evidence foreign keys, exported graph IDs.
+Excluded/retracted claims and candidate identity matches are NOT graph edges.
+Earlier five figures are core_v1 snapshots, NOT updated full-corpus visualizations.
+PASS: all 64 OCR excerpts equal their recorded page character ranges; all page hashes match.

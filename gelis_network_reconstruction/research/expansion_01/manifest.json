@@ -1,0 +1,14 @@
+{
+  "version": "expansion_01",
+  "date": "2026-11-08",
+  "source_id": "duvernoy1978_user_scan",
+  "new_nodes": 83,
+  "new_assertions": 130,
+  "evidence_records": 64,
+  "excluded_claims": 10,
+  "candidate_hits": 176,
+  "sequential_case_range": "1-7, selective extraction; case 3 targeted reading",
+  "core_snapshot": "data/nodes.csv and data/edges.csv; original five figures",
+  "combined_data": "analysis/expanded",
+  "source_pdf_included": false
+}

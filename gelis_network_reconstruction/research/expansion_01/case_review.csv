@@ -1,0 +1,8 @@
+﻿case_id,case_title,printed_pages,pdf_pages,review_status,relationship_extraction,notes_zh
+C001,Aude de Maucasal,31-48,67-84,text_read_relations_selected,selected_not_exhaustive,通读正文及注释；编码主要日常关系和选择性司法联系；未穷尽顾问名单
+C002,Pierre Sabatier,49-54,85-90,text_read_relations_selected,selected_not_exhaustive,通读正文及注释；保留说法变化；p.54 Gélis仅编者比较
+C003,Raymond de Sainte-Foy,55-122,91-162,targeted_reading_not_complete,selected_not_exhaustive,核读55-58、66-68、103-106、111、116-117；其余姓名检索，不声称逐页精读
+C004,Agnès Francou,123-127,163-167,text_read_relations_selected,selected_not_exhaustive,通读；乳母身份更正与Pamiers来访者；程序名单不穷尽
+C005,Jean de Vienne,128-139,168-179,text_read_relations_selected,selected_not_exhaustive,正文核读；附录判决为编者引录，仅查主要段落；未逐句编码
+C006,Huguette,140-150,180-190,text_read_relations_selected,selected_not_exhaustive,通读；撤回亲属说法、改仆人名、教堂同行；未穷尽全部异地往来
+C007,Bérenger Escoulan,151-157,191-197,text_read_relations_selected,selected_not_exhaustive,核读正文与注释；酒馆传播链；含p.152证词；不将同场者全连接
