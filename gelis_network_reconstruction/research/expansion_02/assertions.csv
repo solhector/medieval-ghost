@@ -1,0 +1,83 @@
+﻿edge_id,source,target,layer,relation_zh,directed,evidence_mode,outcome,printed_pages,deposition,detail_zh,evidence_id,case_id,event_time_expression
+x02_001,saintefoy,c3_andre,social,在Pamiers结伴,false,reported,attested,58,Raymond,,v02_001,C003,约一月前离开Pamiers，去Carcassonne和Narbonne
+x02_002,saintefoy,c3_guilhem,social,在Pamiers结伴,false,reported,attested,58,Raymond,,v02_001,C003,约一月前离开Pamiers，去Carcassonne和Narbonne
+x02_003,saintefoy,c3_guillelme,social,在Pamiers结伴,false,reported,attested,58,Raymond,,v02_001,C003,约一月前离开Pamiers，去Carcassonne和Narbonne
+x02_004,saintefoy,c3_petrone,social,在Pamiers结伴,false,reported,attested,58,Raymond,,v02_001,C003,约一月前离开Pamiers，去Carcassonne和Narbonne
+x02_005,c3_mentor,saintefoy,communication,结识并引导加入其生活道路,true,reported,attested,103,Raymond,Raymond否认父母或朋友介绍；入道约27年前，导师约18年前已死,v02_005,C003,
+x02_006,c3_mentor,saintefoy,social,在学校探访并引见领袖及同伴,true,reported,attested,104,Raymond,,v02_006,C003,
+x02_007,saintefoy,ray_father,social,初识导师后两年仍住父家,false,reported,attested,104,Raymond,,v02_006,C003,
+x02_008,saintefoy,c3_christin,social,曾会见,true,reported,attested,104,Raymond,,v02_007,C003,
+x02_009,saintefoy,c3_majoral,social,在其任领袖后会见,true,reported,attested,104,Raymond,,v02_007,C003,
+x02_010,jean_lorrain,saintefoy,material,提供以Spiritus sanctus开头的书,true,reported,attested,107,程序记录／Raymond,原文只说得自，不确定赠送或出售,v02_008,C003,
+x02_011,c3_questor,saintefoy,material,提供以Libre d’Esdras开头的书,true,reported,attested,107,程序记录／Raymond,,v02_008,C003,
+x02_012,c3_bookseller,saintefoy,material,出售以Discretis开头的书,true,reported,attested,107,程序记录／Raymond,,v02_008,C003,
+x02_013,saintefoy,c3_majoral,authority,自称反抗并不服从现任领袖,true,reported,attested,115,Raymond,不可只据前面的服从原则推定实际服从,v02_009,C003,
+x02_014,canals,gaillarde_child,kinship,父女,true,reported,attested,192,Gaillarde,,v02_013,C014,
+x02_015,gaillarde_child,carot,social,在磨坊亲耳听见谈话,true,self_report,attested,192,Gaillarde,不是由证词同现自动投影,v02_013,C014,
+x02_016,gaillarde_child,caussou_miller,social,在磨坊亲耳听见谈话,true,self_report,attested,192,Gaillarde,,v02_013,C014,
+x02_017,rouch,gaillarde_child,care,提供住处,true,reported,attested,192,Gaillarde,,v02_014,C014,
+x02_018,gaillarde_child,rouch,communication,转述磨坊言论并求证,true,reported,attested,192,Gaillarde,,v02_014,C014,
+x02_019,rouch,gaillarde_child,communication,回答教会持相反教义,true,reported,attested,192,Gaillarde,,v02_014,C014,
+x02_020,gaillarde_child,lagleize,communication,转述磨坊言论并求证,true,reported,attested,192,Gaillarde,,v02_014,C014,
+x02_021,lagleize,gaillarde_child,communication,回答教会持相反教义,true,reported,attested,192,Gaillarde,,v02_014,C014,
+x02_022,rouch,lagleize,communication,炉边讨论佩十字者的补赎,false,reported,attested,192,Gaillarde,,v02_014,C014,
+x02_023,gaillarde_child,rouch,communication,转述磨坊言论,true,reported,attested,193,Pierre Rouch,独立证言支持同一传播事件，不当作另一次传播；Rouch说周一，女孩说周二,v02_015,C014,
+x02_024,carot,caussou_miller,communication,在磨坊讨论墓地声响、复活与死后相认,false,reported,attested,191,Guillaume Caussou,,v02_016,C014,
+x02_025,carot,carot_h,kinship,婚姻／丧偶,false,reported,attested,196,程序记录,,v02_018,C014,
+x02_026,mondon,carot,kinship,女婿与岳母,true,reported,attested,195,审讯问句／Jacqueline,,v02_019,C014,约两年前九月圣米迦勒节
+x02_027,mondon,carot,communication,请求找来Pellicier之女,true,reported,attested,195,审讯问句／Jacqueline,,v02_019,C014,约两年前九月圣米迦勒节
+x02_028,carot,pellicier_d,social,接来并带上自家楼层,true,reported,attested,195,审讯问句／Jacqueline,,v02_019,C014,约两年前九月圣米迦勒节
+x02_029,pellicier,pellicier_d,kinship,父女,true,reported,attested,195,审讯问句／Jacqueline,,v02_019,C014,约两年前九月圣米迦勒节
+x02_030,mondon,gasc_notary,social,带来施术教士,true,interrogator_identification,attested,195,审讯问句／Jacqueline,Bérenger姓名来自问句；答词仅称clerc,v02_019,C014,约两年前九月圣米迦勒节
+x02_031,mondon,carot,communication,事后告诉她已经施术,true,reported,attested,195,审讯问句／Jacqueline,她说自己离开楼层，未亲眼观看,v02_019,C014,约两年前九月圣米迦勒节
+x02_032,cordier,beubre,communication,从Pamiers带来末世消息并讨论,true,reported,attested,199,Bertrand Cordier,不得将同席者两两推定为朋友,v02_021,C015,约两年前／1319年大斋期，证词日期不一致
+x02_033,cordier,mayshelac,communication,从Pamiers带来末世消息并讨论,true,reported,attested,199,Bertrand Cordier,不得将同席者两两推定为朋友,v02_021,C015,约两年前／1319年大斋期，证词日期不一致
+x02_034,cordier,mercier,communication,从Pamiers带来末世消息并讨论,true,reported,attested,199,Bertrand Cordier,不得将同席者两两推定为朋友,v02_021,C015,约两年前／1319年大斋期，证词日期不一致
+x02_035,cordier,savinhan,communication,从Pamiers带来末世消息并讨论,true,reported,attested,199,Bertrand Cordier,不得将同席者两两推定为朋友,v02_021,C015,约两年前／1319年大斋期，证词日期不一致
+x02_036,savinhan,cordier,communication,反驳世界将终结,true,reported,attested,199,Bertrand Cordier,,v02_021,C015,约两年前／1319年大斋期，证词日期不一致
+x02_037,beubre,cordier,communication,将Savinhan言论归咎于其家族异端背景,true,reported,attested,201,Jean Yfort / Beubre,这是评价性言语，不是已核定亲属的异端身份,v02_022,C015,
+x02_038,niaux_a,fournier,social,提供主教住处,true,reported,attested,201,程序记录,,v02_023,C015,
+x02_039,frezat,savinhan,communication,教导复活后身体永存,true,reported,attested,202,Savinhan,,v02_024,C015,
+x02_040,gaillac,savinhan,communication,教导复活后身体永存,true,reported,attested,202,Savinhan,,v02_024,C015,
+x02_041,tolus,savinhan,communication,被归因为世界审判后归无观点的教师,true,attributed,attested,203,Savinhan,后称自悟与公共言论，故此为随时间变化的归责,v02_025,C015,
+x02_042,vesian,savinhan,social,邻居,false,reported,attested,206,Vésian Teisseyre,,v02_027,C015,
+x02_043,vesian,savinhan,material,买其房屋并要求偿还40里弗,true,reported,attested,206,Vésian Teisseyre,正文称入狱前购买；编者注19解释为没收后拍卖与赎回。保留矛盾，不采用注释重建为唯一事实,v02_027,C015,
+x02_044,savinhan,vesian,communication,抱怨邻居使自己损失财产,true,reported,attested,206,Vésian Teisseyre,,v02_027,C015,
+x02_045,massonier,thibaud,kinship,父子,true,reported,attested,206,程序记录,,v02_028,C015,
+x02_046,savinhan,auge,economic,在其房屋工作,true,reported,attested,207,Guillaume Thibaud,不足以确定直接雇佣合同,v02_029,C015,
+x02_047,montanie,savinhan,social,住得很近,false,reported,attested,207,Jean Montanié,,v02_030,C015,
+x02_048,savinhan,montanie,communication,在磨坊抱怨邻居串通作证,true,reported,attested,207,Jean Montanié,,v02_030,C015,
+x02_049,savinhan,turiere,communication,在磨坊抱怨邻居串通作证,true,reported,attested,207,Jean Montanié,,v02_030,C015,
+x02_050,turiere,honors,kinship,婚姻,false,reported,attested,207,Jean Montanié,,v02_030,C015,
+x02_051,savinhan,gaillac,kinship,cousin，亲属具体谱系未明,false,reported,attested,207,Jean Montanié,,v02_030,C015,
+x02_052,savinhan,cogul,social,同批判入Mur并在狱中相处,false,reported,attested,209,Savinhan,,v02_031,C015,
+x02_053,savinhan,magre,social,同批判入Mur并在狱中相处,false,reported,attested,209,Savinhan,,v02_031,C015,
+x02_054,savinhan,autast,social,同批判入Mur并在狱中相处,false,reported,attested,209,Savinhan,,v02_031,C015,
+x02_055,savinhan,vaissiere,social,同批判入Mur并在狱中相处,false,reported,attested,209,Savinhan,,v02_031,C015,
+x02_056,savinhan,franque,social,同批判入Mur并在狱中相处,false,reported,attested,209,Savinhan,,v02_031,C015,
+x02_057,savinhan,amilhac,social,同批判入Mur并在狱中相处,false,reported,attested,209,Savinhan,,v02_031,C015,
+x02_058,vaissiere,savinhan,communication,将严厉判决与主教、Sabartès什一税纠纷联系,true,reported,attested,209,Savinhan,记录囚犯的解释；不是替其证明主教动机,v02_031,C015,
+x02_059,spinalbel,savinhan,kinship,beau-frère，姻亲,false,reported,attested,209,Savinhan,,v02_032,C015,
+x02_060,helie,savinhan,kinship,cousin germain，一代表／堂亲,false,reported,attested,209,Savinhan,,v02_032,C015,
+x02_061,spinalbel,savinhan,communication,以Gaillac不会使他冒险来劝他接受建议,true,reported_disputed,attested,209,Savinhan,属于Savinhan此前诱导供述叙事的一部分，后有修订,v02_032,C015,
+x02_062,savinhan,cavatier,communication,押往监狱途中抱怨Gaillac建议不好,true,reported,attested,210,Savinhan,,v02_033,C015,
+x02_063,bernard_clergue,savinhan,communication,在狱中评论判决、告白与主教,true,reported,attested,210,Savinhan,,v02_034,C015,
+x02_064,bernard_clergue,pierre_clergue,kinship,兄弟,false,reported,attested,210,Savinhan,,v02_034,C015,
+x02_065,bernard_clergue,amilhac,social,在Mur同住,false,reported,attested,210,Savinhan,,v02_034,C015,
+x02_066,amilhac,savinhan,communication,报告Bernard拟付钱促Béatrice撤回对Pierre的证言,true,reported,attested,210,Savinhan,转述链；金额约50里弗、收款对象需进一步对读，不能写成已付款,v02_034,C015,
+x02_067,vaissiere,savinhan,communication,报告Bernard拟付钱促Béatrice撤回对Pierre的证言,true,reported,attested,210,Savinhan,转述链；金额约50里弗、收款对象需进一步对读，不能写成已付款,v02_034,C015,
+x02_068,savinhan,bernarde_s,kinship,婚姻,false,reported,attested,211,Savinhan,,v02_035,C015,
+x02_069,savinhan,bernarde_s,communication,在家抱怨失去财产,true,reported,attested,211,Savinhan,,v02_035,C015,
+x02_070,savinhan,peyre_quie,communication,在路上抱怨惩罚并说明旧信念,true,reported,attested,211,Savinhan,,v02_035,C015,
+x02_071,niaux_g,savinhan,communication,在门前共同抱怨Gaillac并谈追回财产,true,reported,attested,212,Savinhan,,v02_036,C015,1322年9月左右
+x02_072,tron,savinhan,communication,说Gaillac曾向审讯者中伤他,true,reported,attested,212,Savinhan,记录转述，不编码Gaillac实际诬告,v02_036,C015,1322年9月左右
+x02_073,gaillac,savinhan,communication,修订说法：只在真正相信时才承认相信,true,reported,attested,213,Savinhan,与前述诱导虚假认罪版本分开,v02_037,C015,
+x02_074,hugol,hugol_w,kinship,婚姻,false,reported,attested,214,Savinhan,,v02_038,C015,
+x02_075,delaire,delaire_w,kinship,婚姻,false,reported,attested,215,Savinhan,,v02_039,C015,
+x02_076,delaire,magre,communication,请求同行并介绍André,true,reported,attested,219,Pierre Magre,,v02_040,C016,约18年前，Pierre Amiel临终疾病期间
+x02_077,magre,delaire,social,从Plan de Serres同行到La Campagne,false,reported,attested,219,Pierre Magre,,v02_040,C016,约18年前，Pierre Amiel临终疾病期间
+x02_078,magre,andre_prades,social,亲自伴行,false,reported,attested,219,Pierre Magre,,v02_040,C016,约18年前，Pierre Amiel临终疾病期间
+x02_079,delaire,andre_prades,social,同行,false,reported,attested,219,Pierre Magre,,v02_040,C016,约18年前，Pierre Amiel临终疾病期间
+x02_080,delaire,magre,communication,告知André已为Amiel施入教仪式,true,reported,attested,219,Pierre Magre,,v02_040,C016,约18年前，Pierre Amiel临终疾病期间
+x02_081,andre_prades,amiel,ritual,据Delaire转述在临终时接纳为bon chrétien,true,hearsay,attested,219,Pierre Magre,Magre未目睹仪式，且未听André本人说明,v02_040,C016,约18年前，Pierre Amiel临终疾病期间
+x02_082,magre,tavernier,belief,长期认为是bon homme,true,reported,attested,220,程序记录／Pierre Magre,信任／评价不等于亲眼相见,v02_041,C016,

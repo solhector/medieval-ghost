@@ -1,0 +1,9 @@
+"edge_id","source","target","layer","relation_zh","directed","evidence_mode","outcome","printed_pages","deposition","detail_zh","evidence_id","case_id","event_time_expression","label","x","y","xend","yend"
+"x02_014","canals","gaillarde_child","kinship","父女","true","reported","attested",192,"Gaillarde","","v02_013","C014","","父女",0,-1.18,0,0.78
+"x02_018","gaillarde_child","rouch","communication","转述磨坊言论并求证","true","reported","attested",192,"Gaillarde","","v02_014","C014","","转述／求证",0.196773982019982,1.09838699100999,1.80322601798002,1.90161300899001
+"x02_020","gaillarde_child","lagleize","communication","转述磨坊言论并求证","true","reported","attested",192,"Gaillarde","","v02_014","C014","","转述／求证",0.196773982019982,0.901613008990009,1.80322601798002,0.0983869910099908
+"x02_022","rouch","lagleize","communication","炉边讨论佩十字者的补赎","false","reported","attested",192,"Gaillarde","","v02_014","C014","","炉边讨论",2,1.78,2,0.22
+"x02_024","carot","caussou_miller","communication","在磨坊讨论墓地声响、复活与死后相认","false","reported","attested",191,"Guillaume Caussou","","v02_016","C014","","讨论死后相认",-2,0.22,-2,1.78
+"x02_025","carot","carot_h","kinship","婚姻／丧偶","false","reported","attested",196,"程序记录","","v02_018","C014","","婚姻／丧偶",-2.16083215901343,-0.150110015079202,-3.33916784098657,-1.2498899849208
+"x02_015","gaillarde_child","carot","social","在磨坊亲耳听见谈话","true","self_report","attested",192,"Gaillarde","不是由证词同现自动投影","v02_013","C014","","亲耳听见",-0.196773982019982,0.901613008990009,-1.80322601798002,0.0983869910099908
+"x02_016","gaillarde_child","caussou_miller","social","在磨坊亲耳听见谈话","true","self_report","attested",192,"Gaillarde","","v02_013","C014","","亲耳听见",-0.196773982019982,1.09838699100999,-1.80322601798002,1.90161300899001

@@ -1,0 +1,19 @@
+{
+  "batch": "expansion_02",
+  "source_pdf_sha256": "19436cc2822ff4e2310c7bdaf03ee6bf6f28340499972ee7fbc49c7737043c8e",
+  "full_text_cases": [
+    3,
+    14,
+    15,
+    16
+  ],
+  "printed_pages_read": 99,
+  "plate_captions": 4,
+  "new_nodes": 65,
+  "new_assertions": 82,
+  "evidence_records": 42,
+  "excluded_claims": 9,
+  "thematic_statements": 14,
+  "next_case": 17,
+  "old_batches_preserved": true
+}

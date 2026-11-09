@@ -1,6 +1,9 @@
-PASS: 201 nodes; 297 relation assertions
-New: 83 nodes; 130 assertions; 64 excerpt records
-PASS: unique keys, complete edge endpoints, evidence foreign keys, exported graph IDs.
-Excluded/retracted claims and candidate identity matches are NOT graph edges.
-Earlier five figures are core_v1 snapshots, NOT updated full-corpus visualizations.
-PASS: all 64 OCR excerpts equal their recorded page character ranges; all page hashes match.
+PASS: 266 nodes; 379 relation assertions; 106 excerpt records
+Batches: expansion_01, expansion_02
+PASS: unique keys, complete edge endpoints, evidence foreign keys, exported graph IDs and sourced node updates.
+One assertion is not necessarily one independent event: repeated testimonies can support the same event.
+Excluded/retracted allegations as facts and candidate identity matches are NOT graph edges.
+Attributed speech, disputed accounts, hearsay and beliefs ARE explicitly marked: filter evidence_mode before analysis.
+GraphML is a directed storage container: honor edge attribute directed=false for symmetric ties.
+Full reading does not certify exhaustive person/edge extraction or accuracy of testimony.
+Earlier five figures remain core_v1 snapshots; expansion_02 figure is a selected C014 view.

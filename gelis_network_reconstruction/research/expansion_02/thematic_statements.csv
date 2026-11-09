@@ -1,0 +1,15 @@
+﻿statement_id,subject_id,related_person_id,statement_type,summary_zh,evidence_id,in_positive_graph
+t02_001,saintefoy,ray_father;ray_mother,explicit_nonaction,明确说不为已故父母祈祷或施舍；若相信有用，他就会这样做。不能编码成正向代祷边。,v02_002,false
+t02_002,saintefoy,,counterfactual_and_doctrine,不会为死者请弥撒；遗赠的益处在生前决定所获功德，而非缩短死后炼狱。,v02_003,false
+t02_003,saintefoy,,doctrine,承认圣人知道生者给他们的荣誉、听见祈祷并为生者祈祷；泛论不制造具体地方人物边。,v02_004,false
+t02_004,c3_christin,jean_lorrain;c3_jacques;c3_majoral,office_sequence,Jean→Christin→Jacques→匿名现任领袖；记录职务次序，不投影为彼此相识边。Jacques插句参注47。,v02_007,false
+t02_005,saintefoy,c3_motier;c3_maurin,named_missionaries,说Robert Motier、Etienne Maurin在Gascogne招收信徒，且相信二人约六年前去世；没有据此建立自己与他们相识的边。,v02_009,false
+t02_006,saintefoy,,recantation,8月11日曾承认炼狱与亡者代祷效力，后面又否认；不可把全案处理成不变的信念。,v02_011,false
+t02_007,saintefoy,,partial_recantation,撤回洗礼绝对必要、无圣油亦可坚振、已婚者授职无效等观点；仍拒绝撤回禁誓等核心立场。,v02_012,false
+t02_008,gaillarde_child,,social_consequence,自述告发公开后在Ax变得招人憎恶；无具体加害者姓名，不能生成全城人与她的敌对边。,v02_014,false
+t02_009,valentin,,rumor_context,据传Valentin遇害后墓地有夜间声响、神父害怕留宿；证词未说Jacqueline亲闻或认定是Valentin鬼魂。,v02_016,false
+t02_010,carot,valentin,rumor_repetition,承认听到城中流传墓地声响及神父畏惧的说法；与磨坊交流相接。,v02_017,false
+t02_011,carot,,qualified_admission,终于承认谈话短时间内心存疑惑，始终否认断言不复活；须与Gaillarde的强断言归责并列。,v02_020,false
+t02_012,savinhan,,belief_origin_revision,说忙于石匠工作不听讲道，并以俗谚、公共言论及自己思考解释观点来源；与先前Tolus归责存在变化。,v02_026,false
+t02_013,savinhan,,recantation_motive,承认自己希望主教救济或归还财产，因此声称受Gaillac诱导虚假认罪；又承认原先确实持那些观点。,v02_036,false
+t02_014,savinhan,delaire_w;hugol_w,negative_observation,称未见Delaire妻佩戴十字；称两位同教区女性未前来受鞭；未见不等于从来没有履行。,v02_039,false

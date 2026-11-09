@@ -1,3 +1,5 @@
+> 最新批次：第三案已补齐全文，第14–16案已全文阅读（含复审、注释）。新增65节点、82条关系断言；合并版266节点、379条关系断言。详见 [扩展02阅读报告](research/expansion_02/README.md) 和 [逐页阅读记录](research/expansion_02/reading_log.csv)。以下核心图仍为v1快照。
+
 # Gélis 的人物关系网络：可复核的 R 重构
 
 **扩展01已加入**：[从第一案开始的证据与进度](research/expansion_01/README.md)。新增83节点、130关系，合并版共201节点、297关系，见 `analysis/expanded/`。运行 `Rscript build_expanded.R` 重建。下文及五张图仍说明原核心v1快照。

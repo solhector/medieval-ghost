@@ -1,0 +1,10 @@
+﻿claim_id,source,target,claim_zh,evidence_id,resolution_evidence_id,disposition,reason_zh
+neg02_001,saintefoy,Pierre [Eclose; unresolved],在Eclose向Pierre告解，受教禁誓,v02_010,,excluded_from_graph_as_fact,初期自辩与后期叙述不同；编者注22判为掩饰，暂不确立此人及关系
+neg02_002,saintefoy,huguette;petrone,教两名女性一概不发誓,v02_011,,excluded_from_graph_as_fact,明确撤回，且Pétronille身份待核；不添加正向教学边
+neg02_003,gasc_notary,pellicier_d,成功通过术法找回毛呢,v02_019,,excluded_from_graph_as_fact,仅报告施术已做；没有找回失物的结果，亦无死者显现
+neg02_004,beubre,savinhan,串通作证使其失去财产,v02_030,,excluded_from_graph_as_fact,Jean转述Savinhan的指控；不据此建立已证实共谋或加害边
+neg02_005,caussou_a,savinhan,串通作证使其失去财产,v02_030,,excluded_from_graph_as_fact,Jean转述Savinhan的指控；不据此建立已证实共谋或加害边
+neg02_006,honors,savinhan,串通作证使其失去财产,v02_030,,excluded_from_graph_as_fact,Jean转述Savinhan的指控；不据此建立已证实共谋或加害边
+neg02_007,frezat,savinhan,串通作证使其失去财产,v02_030,,excluded_from_graph_as_fact,Jean转述Savinhan的指控；不据此建立已证实共谋或加害边
+neg02_008,bernard_clergue,beatrice_prison,贿赂成功并已撤回证词,v02_034,,excluded_from_graph_as_fact,只报告要求中间人促成撤回及许诺金钱；未报告实现
+neg02_009,gaillac,savinhan,诱导其承认从未相信的异端观点,v02_032,v02_037,excluded_from_graph_as_fact,本次讯问后段撤回；保留证言变化，不作已证实诱供关系

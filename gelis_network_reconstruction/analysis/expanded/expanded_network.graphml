@@ -2046,7 +2046,7 @@
       <data key="v_name">ray_father</data>
       <data key="v_label">Père de Raimond [anonyme]</data>
       <data key="v_role_zh">Genevois人；聘乳母者</data>
-      <data key="v_status">uncertain</data>
+      <data key="v_status">dead</data>
       <data key="v_group">前七案扩展</data>
       <data key="v_identity_note"></data>
       <data key="v_printed_pages">125</data>
@@ -2239,6 +2239,721 @@
       <data key="v_printed_pages">155</data>
       <data key="v_source_basis">扩展01；见assertions/evidence，未关联者为身份标题或人物登记</data>
       <data key="v_dataset">expansion_01</data>
+    </node>
+    <node id="n201">
+      <data key="v_name">c3_andre</data>
+      <data key="v_label">André Guiraud</data>
+      <data key="v_role_zh">Vienne地区来Pamiers谋生的同伴</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">58</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n202">
+      <data key="v_name">c3_guilhem</data>
+      <data key="v_label">Jean Guilhem</data>
+      <data key="v_role_zh">Vienne地区来Pamiers谋生的同伴</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">58</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n203">
+      <data key="v_name">c3_guillelme</data>
+      <data key="v_label">Guillelme Pascal</data>
+      <data key="v_role_zh">Vienne地区来Pamiers谋生的女性同伴</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">58</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n204">
+      <data key="v_name">c3_petrone</data>
+      <data key="v_label">Pétrone Pascal</data>
+      <data key="v_role_zh">Vienne地区来Pamiers谋生的女性同伴</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">58</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n205">
+      <data key="v_name">c3_mentor</data>
+      <data key="v_label">Premier compagnon de Raymond [anonyme]</data>
+      <data key="v_role_zh">招引Raymond的早期瓦尔多派同伴；死于Lyon教区</data>
+      <data key="v_status">dead</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note">不强并最初供词中的Pierre</data>
+      <data key="v_printed_pages">103</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n206">
+      <data key="v_name">c3_christin</data>
+      <data key="v_label">Christin [majoral]</data>
+      <data key="v_role_zh">继Jean之后的瓦尔多派领袖；称不识字</data>
+      <data key="v_status">dead</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note">任职相继不等于有直接个人接触</data>
+      <data key="v_printed_pages">104</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n207">
+      <data key="v_name">c3_jacques</data>
+      <data key="v_label">Jacques [majoral]</data>
+      <data key="v_role_zh">继Christin之后的瓦尔多派领袖</data>
+      <data key="v_status">dead</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note">姓名插句出于编者校订；不与Hautpas募捐人合并</data>
+      <data key="v_printed_pages">104</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n208">
+      <data key="v_name">c3_majoral</data>
+      <data key="v_label">Ministre actuel [anonyme]</data>
+      <data key="v_role_zh">Raymond拒绝透露姓名的现任瓦尔多派领袖</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">104</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n209">
+      <data key="v_name">c3_questor</data>
+      <data key="v_label">Jacques [quêteur de Hautpas]</data>
+      <data key="v_role_zh">募捐人；书籍来源</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">107</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n210">
+      <data key="v_name">c3_bookseller</data>
+      <data key="v_label">André de Viennois</data>
+      <data key="v_role_zh">向Raymond出售书籍者</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">107</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n211">
+      <data key="v_name">c3_motier</data>
+      <data key="v_label">Robert Motier</data>
+      <data key="v_role_zh">Raymond称曾在Gascogne活动的瓦尔多派神父</data>
+      <data key="v_status">dead</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">115</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n212">
+      <data key="v_name">c3_maurin</data>
+      <data key="v_label">Etienne Maurin</data>
+      <data key="v_role_zh">Raymond称曾在Gascogne活动的瓦尔多派神父</data>
+      <data key="v_status">dead</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">115</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n213">
+      <data key="v_name">carot</data>
+      <data key="v_label">Jacqueline den Carot</data>
+      <data key="v_role_zh">Ax居民；Raimond Carot遗孀；磨坊谈话被告</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">191</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n214">
+      <data key="v_name">carot_h</data>
+      <data key="v_label">Raimond Carot</data>
+      <data key="v_role_zh">Jacqueline亡夫</data>
+      <data key="v_status">dead</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">196</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n215">
+      <data key="v_name">gaillarde_child</data>
+      <data key="v_label">Gaillarde [fille de Pierre de Canals]</data>
+      <data key="v_role_zh">约12岁乞食女孩；寄住Pierre Rouch家；证人</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">191</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n216">
+      <data key="v_name">canals</data>
+      <data key="v_label">Pierre de Canals</data>
+      <data key="v_role_zh">Saurai人；Gaillarde之父</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">192</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n217">
+      <data key="v_name">rouch</data>
+      <data key="v_label">Pierre Rouch</data>
+      <data key="v_role_zh">Mérens教区长；在Ax有房，收留Gaillarde</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">193</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n218">
+      <data key="v_name">lagleize</data>
+      <data key="v_label">Barthélémy de Lagleize / de Sorgeat</data>
+      <data key="v_role_zh">Sorgeat神父；Ax代牧；证人</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">191</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n219">
+      <data key="v_name">caussou_miller</data>
+      <data key="v_label">Guillaume Caussou</data>
+      <data key="v_role_zh">Ax磨坊主／磨工；谈话者及证人</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">191</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n220">
+      <data key="v_name">valentin</data>
+      <data key="v_label">Valentin Barra</data>
+      <data key="v_role_zh">在Ax墓地被杀者；声响传闻的背景人物</data>
+      <data key="v_status">dead</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note">不等于已证实发声鬼魂；不与Pons Malet合并</data>
+      <data key="v_printed_pages">191</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n221">
+      <data key="v_name">mondon</data>
+      <data key="v_label">Arnaud Mondon</data>
+      <data key="v_role_zh">Ax居民；Jacqueline女婿；失去两匹毛呢者</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">195</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n222">
+      <data key="v_name">gasc_notary</data>
+      <data key="v_label">Bérenger Gasc</data>
+      <data key="v_role_zh">Tarascón公证人；审讯问句指认为施术者</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note">Jacqueline答语称匿名clerc；同一指认出自提问框架</data>
+      <data key="v_printed_pages">195</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n223">
+      <data key="v_name">pellicier</data>
+      <data key="v_label">Arnaud Pellicier</data>
+      <data key="v_role_zh">Ax居民；被请来参加术法的女孩之父</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">195</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n224">
+      <data key="v_name">pellicier_d</data>
+      <data key="v_label">Fille d’Arnaud Pellicier [anonyme]</data>
+      <data key="v_role_zh">拟在术法中看见失物去向的女孩</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">195</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n225">
+      <data key="v_name">meriana</data>
+      <data key="v_label">Pons Mériana</data>
+      <data key="v_role_zh">与Jacqueline同列传票的嫌疑人</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note">同列传票不等于相识；编者猜逃亡，不作事实</data>
+      <data key="v_printed_pages">193</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n226">
+      <data key="v_name">savinhan</data>
+      <data key="v_label">Arnaud de Savinhan</data>
+      <data key="v_role_zh">Tarascón／Quié石匠；45岁左右；被审者、囚犯</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">204</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n227">
+      <data key="v_name">cordier</data>
+      <data key="v_label">Bertrand Cordier</data>
+      <data key="v_role_zh">Pamiers人，居Tarascón；新闻传述者、证人</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">199</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n228">
+      <data key="v_name">beubre</data>
+      <data key="v_label">Jean Yfort / Beubre</data>
+      <data key="v_role_zh">Tarascón居民；桥头谈话者、证人</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">200</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n229">
+      <data key="v_name">mayshelac</data>
+      <data key="v_label">Pierre de Mayshelac</data>
+      <data key="v_role_zh">Tarascón／Quié居民；证人</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">200</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n230">
+      <data key="v_name">mercier</data>
+      <data key="v_label">Pierre Mercier</data>
+      <data key="v_role_zh">Tarascón整呢工；桥头谈话者</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">199</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n231">
+      <data key="v_name">frezat</data>
+      <data key="v_label">Raimond Frézat</data>
+      <data key="v_role_zh">Quié教区长；教导Savinhan</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">202</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n232">
+      <data key="v_name">gaillac</data>
+      <data key="v_label">Pierre de Gaillac</data>
+      <data key="v_role_zh">Tarascón人；Savinhan表亲／堂亲；法律人士身份见注10</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">202</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n233">
+      <data key="v_name">tolus</data>
+      <data key="v_label">Arnaud Tolus</data>
+      <data key="v_role_zh">Tarascón学校教师；被称教授世界终末观点</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">203</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n234">
+      <data key="v_name">niaux_a</data>
+      <data key="v_label">Arnaud de Niaux</data>
+      <data key="v_role_zh">在Tarascón提供主教住处的屋主</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">201</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n235">
+      <data key="v_name">vesian</data>
+      <data key="v_label">Vésian Teisseyre</data>
+      <data key="v_role_zh">桥头邻居；曾买Savinhan的房屋；证人</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">206</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n236">
+      <data key="v_name">thibaud</data>
+      <data key="v_label">Guillaume Thibaud</data>
+      <data key="v_role_zh">Guillaume Bernard Massonier之子；证人</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">206</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n237">
+      <data key="v_name">massonier</data>
+      <data key="v_label">Guillaume Bernard Massonier</data>
+      <data key="v_role_zh">Guillaume Thibaud之父</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">206</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n238">
+      <data key="v_name">auge</data>
+      <data key="v_label">Bernard Augé</data>
+      <data key="v_role_zh">Tarascón屋主；Savinhan曾在其房屋工作</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">207</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n239">
+      <data key="v_name">montanie</data>
+      <data key="v_label">Jean Montanié / Montanier</data>
+      <data key="v_role_zh">桥头居民；磨坊主人；证人</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">207</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n240">
+      <data key="v_name">turiere</data>
+      <data key="v_label">Bernard Turière</data>
+      <data key="v_role_zh">磨坊谈话参与者；Honors之夫</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">207</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n241">
+      <data key="v_name">honors</data>
+      <data key="v_label">Honors [épouse de Bernard Turière]</data>
+      <data key="v_role_zh">被Savinhan指责与邻人串通者</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">207</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n242">
+      <data key="v_name">caussou_a</data>
+      <data key="v_label">Arnaud de Caussou</data>
+      <data key="v_role_zh">Savinhan指责的邻居</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">207</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n243">
+      <data key="v_name">cogul</data>
+      <data key="v_label">Arnaud Cogul</data>
+      <data key="v_role_zh">与Savinhan等同批入狱者</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">209</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n244">
+      <data key="v_name">magre</data>
+      <data key="v_label">Pierre Magre</data>
+      <data key="v_role_zh">Rabat居民；护送过被称André者；后与Savinhan同批入狱</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">219</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n245">
+      <data key="v_name">autast</data>
+      <data key="v_label">Guillaume Autast</data>
+      <data key="v_role_zh">与Savinhan等同批入狱者；第18案被告</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">209</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n246">
+      <data key="v_name">vaissiere</data>
+      <data key="v_label">Raimond Vaissière</data>
+      <data key="v_role_zh">与Savinhan同囚；议论审判、什一税争端</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">209</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n247">
+      <data key="v_name">franque</data>
+      <data key="v_label">Bernard Franque</data>
+      <data key="v_role_zh">与Savinhan等同批入狱者</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">209</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n248">
+      <data key="v_name">amilhac</data>
+      <data key="v_label">Barthélémy Amilhac</data>
+      <data key="v_role_zh">神父；与Savinhan、Bernard Clergue同囚</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">209</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n249">
+      <data key="v_name">spinalbel</data>
+      <data key="v_label">Pierre de Spinalbel</data>
+      <data key="v_role_zh">Savinhan姻亲（beau-frère）</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">209</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n250">
+      <data key="v_name">helie</data>
+      <data key="v_label">Bertrand Hélie</data>
+      <data key="v_role_zh">Tarascón人；Savinhan一代表／堂亲</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">209</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n251">
+      <data key="v_name">cavatier</data>
+      <data key="v_label">Guillaume Cavatier</data>
+      <data key="v_role_zh">Foix伯爵在Tarascón的sergent</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">210</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n252">
+      <data key="v_name">bernard_clergue</data>
+      <data key="v_label">Bernard Clergue</data>
+      <data key="v_role_zh">Montaillou人；Pierre之兄弟；囚犯</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">210</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n253">
+      <data key="v_name">pierre_clergue</data>
+      <data key="v_label">Pierre Clergue</data>
+      <data key="v_role_zh">Bernard之兄弟；遭Béatrice作证指控者</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note">本批只登记本案明确身份；不把熟知的其他传记自动加入</data>
+      <data key="v_printed_pages">210</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n254">
+      <data key="v_name">beatrice_prison</data>
+      <data key="v_label">Béatrice [détenue au Mur]</data>
+      <data key="v_role_zh">女囚；对Pierre Clergue作证者</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note">与Béatrice de Planissoles的同一性待读其案核定</data>
+      <data key="v_printed_pages">210</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n255">
+      <data key="v_name">bernarde_s</data>
+      <data key="v_label">Bernarde [épouse de Savinhan]</data>
+      <data key="v_role_zh">Savinhan之妻</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">211</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n256">
+      <data key="v_name">peyre_quie</data>
+      <data key="v_label">Raimond Peyre</data>
+      <data key="v_role_zh">Quié人；道路谈话听众</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">211</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n257">
+      <data key="v_name">niaux_g</data>
+      <data key="v_label">Guillaume de Niaux</data>
+      <data key="v_role_zh">Tarascón人；曾在Carcassonne服刑；佩十字者</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">212</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n258">
+      <data key="v_name">tron</data>
+      <data key="v_label">Guillaume Tron</data>
+      <data key="v_role_zh">Tarascón人；向Savinhan谈论Gaillac</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">212</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n259">
+      <data key="v_name">hugol</data>
+      <data key="v_label">Pierre den Hugol</data>
+      <data key="v_role_zh">Quié人；妻子受佩十字惩罚</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">214</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n260">
+      <data key="v_name">hugol_w</data>
+      <data key="v_label">Épouse de Pierre den Hugol [anonyme]</data>
+      <data key="v_role_zh">Quié女性；受佩十字惩罚</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">214</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n261">
+      <data key="v_name">delaire</data>
+      <data key="v_label">Guillaume Delaire</data>
+      <data key="v_role_zh">Quié人；护送被称André者；妻子受佩十字惩罚</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">215</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n262">
+      <data key="v_name">delaire_w</data>
+      <data key="v_label">Épouse de Guillaume Delaire [anonyme]</data>
+      <data key="v_role_zh">Quié女性；受佩十字惩罚</data>
+      <data key="v_status">living</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">215</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n263">
+      <data key="v_name">amiel</data>
+      <data key="v_label">Pierre Amiel</data>
+      <data key="v_role_zh">Rabat居民；临终时据说接受入教仪式</data>
+      <data key="v_status">dead</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">219</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n264">
+      <data key="v_name">andre_prades</data>
+      <data key="v_label">André [accompagné par Magre]</data>
+      <data key="v_role_zh">被Delaire称为bon chrétien；编者认为即Prades Tavernier</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note"></data>
+      <data key="v_printed_pages">219</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
+    </node>
+    <node id="n265">
+      <data key="v_name">tavernier</data>
+      <data key="v_label">Prades Tavernier</data>
+      <data key="v_role_zh">Magre说长期相信是好人的宗教人物；编者称织工出身</data>
+      <data key="v_status">uncertain</data>
+      <data key="v_group">第三案补读与第14至16案</data>
+      <data key="v_identity_note">本批不把姓名校订当成证人亲自的同一认定</data>
+      <data key="v_printed_pages">220</data>
+      <data key="v_source_basis">expansion_02；身份据所列页码，关系另见evidence/assertions</data>
+      <data key="v_dataset">expansion_02</data>
     </node>
     <edge source="n6" target="n7">
       <data key="e_edge_id">e001</data>
@@ -7288,6 +8003,1400 @@
       <data key="e_case_id">C007</data>
       <data key="e_event_time_expression"></data>
       <data key="e_evidence_pdf_page">192</data>
+    </edge>
+    <edge source="n153" target="n201">
+      <data key="e_edge_id">x02_001</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">在Pamiers结伴</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">58</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_001</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression">约一月前离开Pamiers，去Carcassonne和Narbonne</data>
+      <data key="e_evidence_pdf_page">94</data>
+    </edge>
+    <edge source="n153" target="n202">
+      <data key="e_edge_id">x02_002</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">在Pamiers结伴</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">58</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_001</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression">约一月前离开Pamiers，去Carcassonne和Narbonne</data>
+      <data key="e_evidence_pdf_page">94</data>
+    </edge>
+    <edge source="n153" target="n203">
+      <data key="e_edge_id">x02_003</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">在Pamiers结伴</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">58</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_001</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression">约一月前离开Pamiers，去Carcassonne和Narbonne</data>
+      <data key="e_evidence_pdf_page">94</data>
+    </edge>
+    <edge source="n153" target="n204">
+      <data key="e_edge_id">x02_004</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">在Pamiers结伴</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">58</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_001</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression">约一月前离开Pamiers，去Carcassonne和Narbonne</data>
+      <data key="e_evidence_pdf_page">94</data>
+    </edge>
+    <edge source="n205" target="n153">
+      <data key="e_edge_id">x02_005</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">结识并引导加入其生活道路</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">103</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh">Raymond否认父母或朋友介绍；入道约27年前，导师约18年前已死</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_005</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">143</data>
+    </edge>
+    <edge source="n205" target="n153">
+      <data key="e_edge_id">x02_006</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">在学校探访并引见领袖及同伴</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">104</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_006</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">144</data>
+    </edge>
+    <edge source="n153" target="n183">
+      <data key="e_edge_id">x02_007</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">初识导师后两年仍住父家</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">104</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_006</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">144</data>
+    </edge>
+    <edge source="n153" target="n206">
+      <data key="e_edge_id">x02_008</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">曾会见</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">104</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_007</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">144</data>
+    </edge>
+    <edge source="n153" target="n208">
+      <data key="e_edge_id">x02_009</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">在其任领袖后会见</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">104</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_007</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">144</data>
+    </edge>
+    <edge source="n173" target="n153">
+      <data key="e_edge_id">x02_010</data>
+      <data key="e_layer">material</data>
+      <data key="e_relation_zh">提供以Spiritus sanctus开头的书</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">107</data>
+      <data key="e_deposition">程序记录／Raymond</data>
+      <data key="e_detail_zh">原文只说得自，不确定赠送或出售</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_008</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">147</data>
+    </edge>
+    <edge source="n209" target="n153">
+      <data key="e_edge_id">x02_011</data>
+      <data key="e_layer">material</data>
+      <data key="e_relation_zh">提供以Libre d’Esdras开头的书</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">107</data>
+      <data key="e_deposition">程序记录／Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_008</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">147</data>
+    </edge>
+    <edge source="n210" target="n153">
+      <data key="e_edge_id">x02_012</data>
+      <data key="e_layer">material</data>
+      <data key="e_relation_zh">出售以Discretis开头的书</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">107</data>
+      <data key="e_deposition">程序记录／Raymond</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_008</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">147</data>
+    </edge>
+    <edge source="n153" target="n208">
+      <data key="e_edge_id">x02_013</data>
+      <data key="e_layer">authority</data>
+      <data key="e_relation_zh">自称反抗并不服从现任领袖</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">115</data>
+      <data key="e_deposition">Raymond</data>
+      <data key="e_detail_zh">不可只据前面的服从原则推定实际服从</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_009</data>
+      <data key="e_case_id">C003</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">155</data>
+    </edge>
+    <edge source="n216" target="n215">
+      <data key="e_edge_id">x02_014</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">父女</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">192</data>
+      <data key="e_deposition">Gaillarde</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_013</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">232</data>
+    </edge>
+    <edge source="n215" target="n213">
+      <data key="e_edge_id">x02_015</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">在磨坊亲耳听见谈话</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">self_report</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">192</data>
+      <data key="e_deposition">Gaillarde</data>
+      <data key="e_detail_zh">不是由证词同现自动投影</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_013</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">232</data>
+    </edge>
+    <edge source="n215" target="n219">
+      <data key="e_edge_id">x02_016</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">在磨坊亲耳听见谈话</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">self_report</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">192</data>
+      <data key="e_deposition">Gaillarde</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_013</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">232</data>
+    </edge>
+    <edge source="n217" target="n215">
+      <data key="e_edge_id">x02_017</data>
+      <data key="e_layer">care</data>
+      <data key="e_relation_zh">提供住处</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">192</data>
+      <data key="e_deposition">Gaillarde</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_014</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">232</data>
+    </edge>
+    <edge source="n215" target="n217">
+      <data key="e_edge_id">x02_018</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">转述磨坊言论并求证</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">192</data>
+      <data key="e_deposition">Gaillarde</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_014</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">232</data>
+    </edge>
+    <edge source="n217" target="n215">
+      <data key="e_edge_id">x02_019</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">回答教会持相反教义</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">192</data>
+      <data key="e_deposition">Gaillarde</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_014</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">232</data>
+    </edge>
+    <edge source="n215" target="n218">
+      <data key="e_edge_id">x02_020</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">转述磨坊言论并求证</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">192</data>
+      <data key="e_deposition">Gaillarde</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_014</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">232</data>
+    </edge>
+    <edge source="n218" target="n215">
+      <data key="e_edge_id">x02_021</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">回答教会持相反教义</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">192</data>
+      <data key="e_deposition">Gaillarde</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_014</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">232</data>
+    </edge>
+    <edge source="n217" target="n218">
+      <data key="e_edge_id">x02_022</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">炉边讨论佩十字者的补赎</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">192</data>
+      <data key="e_deposition">Gaillarde</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_014</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">232</data>
+    </edge>
+    <edge source="n215" target="n217">
+      <data key="e_edge_id">x02_023</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">转述磨坊言论</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">193</data>
+      <data key="e_deposition">Pierre Rouch</data>
+      <data key="e_detail_zh">独立证言支持同一传播事件，不当作另一次传播；Rouch说周一，女孩说周二</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_015</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">233</data>
+    </edge>
+    <edge source="n213" target="n219">
+      <data key="e_edge_id">x02_024</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">在磨坊讨论墓地声响、复活与死后相认</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">191</data>
+      <data key="e_deposition">Guillaume Caussou</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_016</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">231</data>
+    </edge>
+    <edge source="n213" target="n214">
+      <data key="e_edge_id">x02_025</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">婚姻／丧偶</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">196</data>
+      <data key="e_deposition">程序记录</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_018</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">236</data>
+    </edge>
+    <edge source="n221" target="n213">
+      <data key="e_edge_id">x02_026</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">女婿与岳母</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">195</data>
+      <data key="e_deposition">审讯问句／Jacqueline</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_019</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression">约两年前九月圣米迦勒节</data>
+      <data key="e_evidence_pdf_page">235</data>
+    </edge>
+    <edge source="n221" target="n213">
+      <data key="e_edge_id">x02_027</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">请求找来Pellicier之女</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">195</data>
+      <data key="e_deposition">审讯问句／Jacqueline</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_019</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression">约两年前九月圣米迦勒节</data>
+      <data key="e_evidence_pdf_page">235</data>
+    </edge>
+    <edge source="n213" target="n224">
+      <data key="e_edge_id">x02_028</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">接来并带上自家楼层</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">195</data>
+      <data key="e_deposition">审讯问句／Jacqueline</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_019</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression">约两年前九月圣米迦勒节</data>
+      <data key="e_evidence_pdf_page">235</data>
+    </edge>
+    <edge source="n223" target="n224">
+      <data key="e_edge_id">x02_029</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">父女</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">195</data>
+      <data key="e_deposition">审讯问句／Jacqueline</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_019</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression">约两年前九月圣米迦勒节</data>
+      <data key="e_evidence_pdf_page">235</data>
+    </edge>
+    <edge source="n221" target="n222">
+      <data key="e_edge_id">x02_030</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">带来施术教士</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">interrogator_identification</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">195</data>
+      <data key="e_deposition">审讯问句／Jacqueline</data>
+      <data key="e_detail_zh">Bérenger姓名来自问句；答词仅称clerc</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_019</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression">约两年前九月圣米迦勒节</data>
+      <data key="e_evidence_pdf_page">235</data>
+    </edge>
+    <edge source="n221" target="n213">
+      <data key="e_edge_id">x02_031</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">事后告诉她已经施术</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">195</data>
+      <data key="e_deposition">审讯问句／Jacqueline</data>
+      <data key="e_detail_zh">她说自己离开楼层，未亲眼观看</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_019</data>
+      <data key="e_case_id">C014</data>
+      <data key="e_event_time_expression">约两年前九月圣米迦勒节</data>
+      <data key="e_evidence_pdf_page">235</data>
+    </edge>
+    <edge source="n227" target="n228">
+      <data key="e_edge_id">x02_032</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">从Pamiers带来末世消息并讨论</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">199</data>
+      <data key="e_deposition">Bertrand Cordier</data>
+      <data key="e_detail_zh">不得将同席者两两推定为朋友</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_021</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression">约两年前／1319年大斋期，证词日期不一致</data>
+      <data key="e_evidence_pdf_page">239</data>
+    </edge>
+    <edge source="n227" target="n229">
+      <data key="e_edge_id">x02_033</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">从Pamiers带来末世消息并讨论</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">199</data>
+      <data key="e_deposition">Bertrand Cordier</data>
+      <data key="e_detail_zh">不得将同席者两两推定为朋友</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_021</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression">约两年前／1319年大斋期，证词日期不一致</data>
+      <data key="e_evidence_pdf_page">239</data>
+    </edge>
+    <edge source="n227" target="n230">
+      <data key="e_edge_id">x02_034</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">从Pamiers带来末世消息并讨论</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">199</data>
+      <data key="e_deposition">Bertrand Cordier</data>
+      <data key="e_detail_zh">不得将同席者两两推定为朋友</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_021</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression">约两年前／1319年大斋期，证词日期不一致</data>
+      <data key="e_evidence_pdf_page">239</data>
+    </edge>
+    <edge source="n227" target="n226">
+      <data key="e_edge_id">x02_035</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">从Pamiers带来末世消息并讨论</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">199</data>
+      <data key="e_deposition">Bertrand Cordier</data>
+      <data key="e_detail_zh">不得将同席者两两推定为朋友</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_021</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression">约两年前／1319年大斋期，证词日期不一致</data>
+      <data key="e_evidence_pdf_page">239</data>
+    </edge>
+    <edge source="n226" target="n227">
+      <data key="e_edge_id">x02_036</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">反驳世界将终结</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">199</data>
+      <data key="e_deposition">Bertrand Cordier</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_021</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression">约两年前／1319年大斋期，证词日期不一致</data>
+      <data key="e_evidence_pdf_page">239</data>
+    </edge>
+    <edge source="n228" target="n227">
+      <data key="e_edge_id">x02_037</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">将Savinhan言论归咎于其家族异端背景</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">201</data>
+      <data key="e_deposition">Jean Yfort / Beubre</data>
+      <data key="e_detail_zh">这是评价性言语，不是已核定亲属的异端身份</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_022</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">241</data>
+    </edge>
+    <edge source="n234" target="n80">
+      <data key="e_edge_id">x02_038</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">提供主教住处</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">201</data>
+      <data key="e_deposition">程序记录</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_023</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">241</data>
+    </edge>
+    <edge source="n231" target="n226">
+      <data key="e_edge_id">x02_039</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">教导复活后身体永存</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">202</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_024</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">242</data>
+    </edge>
+    <edge source="n232" target="n226">
+      <data key="e_edge_id">x02_040</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">教导复活后身体永存</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">202</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_024</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">242</data>
+    </edge>
+    <edge source="n233" target="n226">
+      <data key="e_edge_id">x02_041</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">被归因为世界审判后归无观点的教师</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">attributed</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">203</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh">后称自悟与公共言论，故此为随时间变化的归责</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_025</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">243</data>
+    </edge>
+    <edge source="n235" target="n226">
+      <data key="e_edge_id">x02_042</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">邻居</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">206</data>
+      <data key="e_deposition">Vésian Teisseyre</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_027</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">246</data>
+    </edge>
+    <edge source="n235" target="n226">
+      <data key="e_edge_id">x02_043</data>
+      <data key="e_layer">material</data>
+      <data key="e_relation_zh">买其房屋并要求偿还40里弗</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">206</data>
+      <data key="e_deposition">Vésian Teisseyre</data>
+      <data key="e_detail_zh">正文称入狱前购买；编者注19解释为没收后拍卖与赎回。保留矛盾，不采用注释重建为唯一事实</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_027</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">246</data>
+    </edge>
+    <edge source="n226" target="n235">
+      <data key="e_edge_id">x02_044</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">抱怨邻居使自己损失财产</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">206</data>
+      <data key="e_deposition">Vésian Teisseyre</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_027</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">246</data>
+    </edge>
+    <edge source="n237" target="n236">
+      <data key="e_edge_id">x02_045</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">父子</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">206</data>
+      <data key="e_deposition">程序记录</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_028</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">246</data>
+    </edge>
+    <edge source="n226" target="n238">
+      <data key="e_edge_id">x02_046</data>
+      <data key="e_layer">economic</data>
+      <data key="e_relation_zh">在其房屋工作</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">207</data>
+      <data key="e_deposition">Guillaume Thibaud</data>
+      <data key="e_detail_zh">不足以确定直接雇佣合同</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_029</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">247</data>
+    </edge>
+    <edge source="n239" target="n226">
+      <data key="e_edge_id">x02_047</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">住得很近</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">207</data>
+      <data key="e_deposition">Jean Montanié</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_030</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">247</data>
+    </edge>
+    <edge source="n226" target="n239">
+      <data key="e_edge_id">x02_048</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">在磨坊抱怨邻居串通作证</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">207</data>
+      <data key="e_deposition">Jean Montanié</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_030</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">247</data>
+    </edge>
+    <edge source="n226" target="n240">
+      <data key="e_edge_id">x02_049</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">在磨坊抱怨邻居串通作证</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">207</data>
+      <data key="e_deposition">Jean Montanié</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_030</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">247</data>
+    </edge>
+    <edge source="n240" target="n241">
+      <data key="e_edge_id">x02_050</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">婚姻</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">207</data>
+      <data key="e_deposition">Jean Montanié</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_030</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">247</data>
+    </edge>
+    <edge source="n226" target="n232">
+      <data key="e_edge_id">x02_051</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">cousin，亲属具体谱系未明</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">207</data>
+      <data key="e_deposition">Jean Montanié</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_030</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">247</data>
+    </edge>
+    <edge source="n226" target="n243">
+      <data key="e_edge_id">x02_052</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">同批判入Mur并在狱中相处</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_031</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n226" target="n244">
+      <data key="e_edge_id">x02_053</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">同批判入Mur并在狱中相处</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_031</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n226" target="n245">
+      <data key="e_edge_id">x02_054</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">同批判入Mur并在狱中相处</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_031</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n226" target="n246">
+      <data key="e_edge_id">x02_055</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">同批判入Mur并在狱中相处</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_031</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n226" target="n247">
+      <data key="e_edge_id">x02_056</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">同批判入Mur并在狱中相处</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_031</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n226" target="n248">
+      <data key="e_edge_id">x02_057</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">同批判入Mur并在狱中相处</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_031</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n246" target="n226">
+      <data key="e_edge_id">x02_058</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">将严厉判决与主教、Sabartès什一税纠纷联系</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh">记录囚犯的解释；不是替其证明主教动机</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_031</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n249" target="n226">
+      <data key="e_edge_id">x02_059</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">beau-frère，姻亲</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_032</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n250" target="n226">
+      <data key="e_edge_id">x02_060</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">cousin germain，一代表／堂亲</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_032</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n249" target="n226">
+      <data key="e_edge_id">x02_061</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">以Gaillac不会使他冒险来劝他接受建议</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported_disputed</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">209</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh">属于Savinhan此前诱导供述叙事的一部分，后有修订</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_032</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">249</data>
+    </edge>
+    <edge source="n226" target="n251">
+      <data key="e_edge_id">x02_062</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">押往监狱途中抱怨Gaillac建议不好</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">210</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_033</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">250</data>
+    </edge>
+    <edge source="n252" target="n226">
+      <data key="e_edge_id">x02_063</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">在狱中评论判决、告白与主教</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">210</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_034</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">250</data>
+    </edge>
+    <edge source="n252" target="n253">
+      <data key="e_edge_id">x02_064</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">兄弟</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">210</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_034</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">250</data>
+    </edge>
+    <edge source="n252" target="n248">
+      <data key="e_edge_id">x02_065</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">在Mur同住</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">210</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_034</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">250</data>
+    </edge>
+    <edge source="n248" target="n226">
+      <data key="e_edge_id">x02_066</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">报告Bernard拟付钱促Béatrice撤回对Pierre的证言</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">210</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh">转述链；金额约50里弗、收款对象需进一步对读，不能写成已付款</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_034</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">250</data>
+    </edge>
+    <edge source="n246" target="n226">
+      <data key="e_edge_id">x02_067</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">报告Bernard拟付钱促Béatrice撤回对Pierre的证言</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">210</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh">转述链；金额约50里弗、收款对象需进一步对读，不能写成已付款</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_034</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">250</data>
+    </edge>
+    <edge source="n226" target="n255">
+      <data key="e_edge_id">x02_068</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">婚姻</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">211</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_035</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">251</data>
+    </edge>
+    <edge source="n226" target="n255">
+      <data key="e_edge_id">x02_069</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">在家抱怨失去财产</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">211</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_035</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">251</data>
+    </edge>
+    <edge source="n226" target="n256">
+      <data key="e_edge_id">x02_070</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">在路上抱怨惩罚并说明旧信念</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">211</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_035</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">251</data>
+    </edge>
+    <edge source="n257" target="n226">
+      <data key="e_edge_id">x02_071</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">在门前共同抱怨Gaillac并谈追回财产</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">212</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_036</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression">1322年9月左右</data>
+      <data key="e_evidence_pdf_page">252</data>
+    </edge>
+    <edge source="n258" target="n226">
+      <data key="e_edge_id">x02_072</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">说Gaillac曾向审讯者中伤他</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">212</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh">记录转述，不编码Gaillac实际诬告</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_036</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression">1322年9月左右</data>
+      <data key="e_evidence_pdf_page">252</data>
+    </edge>
+    <edge source="n232" target="n226">
+      <data key="e_edge_id">x02_073</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">修订说法：只在真正相信时才承认相信</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">213</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh">与前述诱导虚假认罪版本分开</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_037</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">253</data>
+    </edge>
+    <edge source="n259" target="n260">
+      <data key="e_edge_id">x02_074</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">婚姻</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">214</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_038</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">254</data>
+    </edge>
+    <edge source="n261" target="n262">
+      <data key="e_edge_id">x02_075</data>
+      <data key="e_layer">kinship</data>
+      <data key="e_relation_zh">婚姻</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">215</data>
+      <data key="e_deposition">Savinhan</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_039</data>
+      <data key="e_case_id">C015</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">255</data>
+    </edge>
+    <edge source="n261" target="n244">
+      <data key="e_edge_id">x02_076</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">请求同行并介绍André</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">219</data>
+      <data key="e_deposition">Pierre Magre</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_040</data>
+      <data key="e_case_id">C016</data>
+      <data key="e_event_time_expression">约18年前，Pierre Amiel临终疾病期间</data>
+      <data key="e_evidence_pdf_page">259</data>
+    </edge>
+    <edge source="n244" target="n261">
+      <data key="e_edge_id">x02_077</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">从Plan de Serres同行到La Campagne</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">219</data>
+      <data key="e_deposition">Pierre Magre</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_040</data>
+      <data key="e_case_id">C016</data>
+      <data key="e_event_time_expression">约18年前，Pierre Amiel临终疾病期间</data>
+      <data key="e_evidence_pdf_page">259</data>
+    </edge>
+    <edge source="n244" target="n264">
+      <data key="e_edge_id">x02_078</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">亲自伴行</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">219</data>
+      <data key="e_deposition">Pierre Magre</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_040</data>
+      <data key="e_case_id">C016</data>
+      <data key="e_event_time_expression">约18年前，Pierre Amiel临终疾病期间</data>
+      <data key="e_evidence_pdf_page">259</data>
+    </edge>
+    <edge source="n261" target="n264">
+      <data key="e_edge_id">x02_079</data>
+      <data key="e_layer">social</data>
+      <data key="e_relation_zh">同行</data>
+      <data key="e_directed">false</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">219</data>
+      <data key="e_deposition">Pierre Magre</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_040</data>
+      <data key="e_case_id">C016</data>
+      <data key="e_event_time_expression">约18年前，Pierre Amiel临终疾病期间</data>
+      <data key="e_evidence_pdf_page">259</data>
+    </edge>
+    <edge source="n261" target="n244">
+      <data key="e_edge_id">x02_080</data>
+      <data key="e_layer">communication</data>
+      <data key="e_relation_zh">告知André已为Amiel施入教仪式</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">219</data>
+      <data key="e_deposition">Pierre Magre</data>
+      <data key="e_detail_zh"></data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_040</data>
+      <data key="e_case_id">C016</data>
+      <data key="e_event_time_expression">约18年前，Pierre Amiel临终疾病期间</data>
+      <data key="e_evidence_pdf_page">259</data>
+    </edge>
+    <edge source="n264" target="n263">
+      <data key="e_edge_id">x02_081</data>
+      <data key="e_layer">ritual</data>
+      <data key="e_relation_zh">据Delaire转述在临终时接纳为bon chrétien</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">hearsay</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">219</data>
+      <data key="e_deposition">Pierre Magre</data>
+      <data key="e_detail_zh">Magre未目睹仪式，且未听André本人说明</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_040</data>
+      <data key="e_case_id">C016</data>
+      <data key="e_event_time_expression">约18年前，Pierre Amiel临终疾病期间</data>
+      <data key="e_evidence_pdf_page">259</data>
+    </edge>
+    <edge source="n244" target="n265">
+      <data key="e_edge_id">x02_082</data>
+      <data key="e_layer">belief</data>
+      <data key="e_relation_zh">长期认为是bon homme</data>
+      <data key="e_directed">true</data>
+      <data key="e_evidence_mode">reported</data>
+      <data key="e_outcome">attested</data>
+      <data key="e_printed_pages">220</data>
+      <data key="e_deposition">程序记录／Pierre Magre</data>
+      <data key="e_detail_zh">信任／评价不等于亲眼相见</data>
+      <data key="e_dataset">expansion_02</data>
+      <data key="e_provenance_level">excerpt_and_pdf_page</data>
+      <data key="e_evidence_id">v02_041</data>
+      <data key="e_case_id">C016</data>
+      <data key="e_event_time_expression"></data>
+      <data key="e_evidence_pdf_page">260</data>
     </edge>
   </graph>
 </graphml>

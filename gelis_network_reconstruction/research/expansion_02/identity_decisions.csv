@@ -1,0 +1,7 @@
+﻿person_a,person_b,decision,reason_zh,evidence_id
+c3_petrone,petrone,keep_separate,仅名字近似不足以与Jean姊妹合并；该段明确说是另一些同伴,v02_001
+c3_bookseller,c3_andre,keep_separate,同名同地区不足以确定同一人,
+carot,jacqueline,keep_separate,Ax的Carot遗孀与Pamiers铁匠女儿Jacqueline Othon不是同一人,
+valentin,malet,keep_separate,均属Ax遇害者不足以合并；本案没有把墓地声响与Gélis的Pons Malet叙事联系起来,
+andre_prades,tavernier,candidate_same_editorial,编者明确认同；正文从André转称ce Prades也有线索，但保留两个节点，待跨案核定再合并,v02_042
+magre,Pierre Magre [C015 p209],same,相邻案同名人物，第16案注4与第15案同批判刑、释放时间吻合；复用magre,

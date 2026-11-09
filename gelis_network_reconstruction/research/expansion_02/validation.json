@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "nodes": 266,
+  "assertions": 379,
+  "evidence_excerpt_and_page_hash_checks": 106,
+  "case_reading_coverage": "99 numbered pages plus 4 plate captions",
+  "limits": "Test verifies record integrity, not historical truth, OCR fidelity, or exhaustive extraction."
+}
